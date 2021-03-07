@@ -52,7 +52,7 @@
 
 <script>
 /* eslint-disable no-unused-vars */
-import ocr from '@/assets/ocr-stats-monhtly-from-2018.json'
+import _ocr from '@/assets/ocr-stats-monhtly-from-2018.json'
 
 import Moment from 'moment'
 import * as d3 from 'd3'
@@ -65,9 +65,61 @@ import {
 } from 'vue'
 
 const DOC_TYPES = {
-  DOCS_ALL: 'allDocuments',
-  DOCS_INVOICES: 'byDocTypeInvoices',
-  DOCS_RECEIPTS: 'byDocTypeReceipts',
+  allDocuments: 'allDocuments',
+  byDocTypeInvoices: 'byDocTypeInvoices',
+  byDocTypeReceipts: 'byDocTypeReceipts',
+  byFindingType_onlyRules: 'byFindingType_onlyRules',
+  byFindingType_noRules: 'byFindingType_noRules',
+  byCountryEE: 'byCountryEE',
+  byCountryEE_invoices: 'byCountryEE_invoices',
+  byCountryEE_receipts: 'byCountryEE_receipts',
+  byCountryFI: 'byCountryFI',
+  byCountryFI_invoices: 'byCountryFI_invoices',
+  byCountryFI_receipts: 'byCountryFI_receipts',
+  byCountryLV: 'byCountryLV',
+  byCountryLV_invoices: 'byCountryLV_invoices',
+  byCountryLV_receipts: 'byCountryLV_receipts',
+  byCountryPL: 'byCountryPL',
+  byCountryPL_invoices: 'byCountryPL_invoices',
+  byCountryPL_receipts: 'byCountryPL_receipts',
+  byCountryLT: 'byCountryLT',
+  byCountryLT_invoices: 'byCountryLT_invoices',
+  byCountryLT_receipts: 'byCountryLT_receipts',
+  byCountrySE: 'byCountrySE',
+  byCountrySE_invoices: 'byCountrySE_invoices',
+  byCountrySE_receipts: 'byCountrySE_receipts',
+  byCountryIE: 'byCountryIE',
+  byCountryIE_invoices: 'byCountryIE_invoices',
+  byCountryIE_receipts: 'byCountryIE_receipts',
+  byCountryGB: 'byCountryGB',
+  byCountryGB_invoices: 'byCountryGB_invoices',
+  byCountryGB_receipts: 'byCountryGB_receipts',
+  byCountryUS: 'byCountryUS',
+  byCountryUS_invoices: 'byCountryUS_invoices',
+  byCountryUS_receipts: 'byCountryUS_receipts',
+  byCountryAU: 'byCountryAU',
+  byCountryAU_invoices: 'byCountryAU_invoices',
+  byCountryAU_receipts: 'byCountryAU_receipts',
+  byCountryNO: 'byCountryNO',
+  byCountryAT: 'byCountryAT',
+  byCountryBE: 'byCountryBE',
+  byCountryBG: 'byCountryBG',
+  byCountryHR: 'byCountryHR',
+  byCountryCY: 'byCountryCY',
+  byCountryCZ: 'byCountryCZ',
+  byCountryDK: 'byCountryDK',
+  byCountryFR: 'byCountryFR',
+  byCountryDE: 'byCountryDE',
+  byCountryHU: 'byCountryHU',
+  byCountryIT: 'byCountryIT',
+  byCountryLU: 'byCountryLU',
+  byCountryMT: 'byCountryMT',
+  byCountryNL: 'byCountryNL',
+  byCountryPT: 'byCountryPT',
+  byCountryRO: 'byCountryRO',
+  byCountrySK: 'byCountrySK',
+  byCountrySI: 'byCountrySI',
+  byCountryES: 'byCountryES'
 }
 
 const DOC_FIELD_TYPES = {
@@ -89,7 +141,7 @@ const FIELDS = {
 
 
 const FIELD_COLORS = {
-  supplier: '#DF00F0',
+  supplier: '#8321FF',
   issued: '#EB0A00',
   summary: '#EBB800',
   currency: '#01EB08',
@@ -101,13 +153,21 @@ const FIELD_COLORS = {
 
 export default {
   setup () {
+    const ocr = Object
+      .entries(_ocr)
+      .reduce((accumulator, [key, value]) => {
+        return {
+          ...accumulator,
+          [key]: value.result
+        }
+      }, {})
+
     const targetSvgContainer = ref(null)
     const targetSvg = ref(null)
-    const targetScope = ref(DOC_TYPES.DOCS_ALL)
+    const targetScope = ref(DOC_TYPES.allDocuments)
     const selectableFields = ref(Object.keys(FIELDS))
     const selectedFields = ref(selectableFields.value)
     const targetFieldType = ref(DOC_FIELD_TYPES.CUMULATIVE)
-
     const defaultMargin = 40
 
     const sizes = computed(() => {  
@@ -226,7 +286,7 @@ export default {
         // .curve(d3.curveStepAfter)
         .x(([monthOfaYear, _]) => xScale.value(monthOfaYear))
         .y(([_, fields]) => {
-          if (fields[_field]?.VerifiedCount < 20) {
+          if (fields[_field]?.VerifiedCount < 1) {
             return sizes.value.height - (sizes.value.margin.top * 4)
           }
 
@@ -275,18 +335,15 @@ export default {
                 .selectAll(`.dot:not(.dot--${ field })`)
                 .style('opacity', '1')
             })
-            .attr('stroke-dasharray', `${ 4000 } ${ 4000 }`)
-            .attr('stroke-dashoffset', 4000)
             .attr('transform', `translate(${ sizes.value.margin.left }, ${ sizes.value.margin.top * 2 })`)
             .style('fill', 'none')
             .style('stroke', FIELD_COLORS[field])
             .style('stroke-width', 4)
             .transition()
             .ease(d3.easeLinear, 8)
-            .duration(2500)
+            .duration(1000)
             .styleTween('stroke', () => d3.interpolateRgb('white', FIELD_COLORS[field]))
             .style('stroke-width', 2)
-            .attr('stroke-dashoffset', 0)
 
           renderDots(_graph, field, tooltip)
         })
@@ -313,6 +370,10 @@ export default {
 
           if (y > (sizes.value.height / 2)) {
             y = y - 330
+          }
+
+          else if (ocr[monthOfaYear]?.[targetScope.value]?.Fields[_field].VerifiedCount < 1) {
+            y = 0 + (sizes.value.height - 330 - (sizes.value.margin.top * 2)) + 20
           }
           
           _tooltip
@@ -346,11 +407,11 @@ export default {
           
           d3
             .selectAll(`.line:not(.line--${ _field })`)
-            .style('opacity', '.2')
+            .style('opacity', '.1')
 
           d3
             .selectAll(`.dot:not(.dot--${ _field })`)
-            .style('opacity', '.2')
+            .style('opacity', '.1')
         })
         .on('mouseout', ({currentTarget}) => {
           d3
@@ -382,14 +443,14 @@ export default {
         .attr('transform', `translate(${ sizes.value.margin.left }, ${ sizes.value.margin.top * 2 })`)
         .attr('cx', ([monthOfaYear, _]) => xScale.value(monthOfaYear))
         .attr('cy', ([_, fields]) => {
-          if (fields[_field]?.VerifiedCount < 10) {
+          if (fields[_field]?.VerifiedCount < 1) {
             return sizes.value.height - (sizes.value.margin.top * 4)
           }
 
           return yScale.value(fields[_field]?.[targetFieldType.value]) ?? 0
         })
         .transition()
-        .delay(2500)
+        .delay(500)
         .ease(d3.easeLinear, 8)
         .duration(100)
         .style('stroke-width', 2)
@@ -451,10 +512,12 @@ export default {
       selectedFields.value,
       targetFieldType.value,
     ], () => {
+      console.log(timeline.value)
       renderSvg(targetSvg.value)
     })
  
     onMounted(() => {
+      console.log(timeline.value)
       renderSvg(targetSvg.value)
     })
 
