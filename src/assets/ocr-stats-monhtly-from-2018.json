@@ -1,0 +1,5474 @@
+{
+  "01.2018": {
+    "count": 3052,
+    "allDocuments": {
+      "Count": 3052,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "currency": {
+          "VerifiedCount": 3035,
+          "RegocnitionFrequency": 79.84,
+          "RegocnigitonPrecision": 93.60,
+          "CumulativePrecision": 74.73
+        },
+        "documentId": {
+          "VerifiedCount": 2792,
+          "RegocnitionFrequency": 57.45,
+          "RegocnigitonPrecision": 40.27,
+          "CumulativePrecision": 23.14
+        },
+        "dueDate": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "issued": {
+          "VerifiedCount": 3005,
+          "RegocnitionFrequency": 63.73,
+          "RegocnigitonPrecision": 89.30,
+          "CumulativePrecision": 56.91
+        },
+        "summary": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "supplier": {
+          "VerifiedCount": 3027,
+          "RegocnitionFrequency": 38.82,
+          "RegocnigitonPrecision": 98.13,
+          "CumulativePrecision": 38.09
+        }
+      }
+    },
+    "byDocTypeReceipts": {
+      "Count": 2709,
+      "Fields": {
+        "currency": {
+          "VerifiedCount": 2694,
+          "RegocnitionFrequency": 79.10,
+          "RegocnigitonPrecision": 93.01,
+          "CumulativePrecision": 73.57
+        },
+        "documentId": {
+          "VerifiedCount": 2452,
+          "RegocnitionFrequency": 56.24,
+          "RegocnigitonPrecision": 41.26,
+          "CumulativePrecision": 23.21
+        },
+        "issued": {
+          "VerifiedCount": 2663,
+          "RegocnitionFrequency": 60.23,
+          "RegocnigitonPrecision": 91.96,
+          "CumulativePrecision": 55.39
+        },
+        "summary": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "supplier": {
+          "VerifiedCount": 2685,
+          "RegocnitionFrequency": 38.32,
+          "RegocnigitonPrecision": 98.54,
+          "CumulativePrecision": 37.77
+        }
+      }
+    },
+    "byDocTypeInvoices": {
+      "Count": 343,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "currency": {
+          "VerifiedCount": 341,
+          "RegocnitionFrequency": 85.63,
+          "RegocnigitonPrecision": 97.95,
+          "CumulativePrecision": 83.87
+        },
+        "documentId": {
+          "VerifiedCount": 340,
+          "RegocnitionFrequency": 66.18,
+          "RegocnigitonPrecision": 34.22,
+          "CumulativePrecision": 22.65
+        },
+        "dueDate": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "issued": {
+          "VerifiedCount": 342,
+          "RegocnitionFrequency": 90.94,
+          "RegocnigitonPrecision": 75.56,
+          "CumulativePrecision": 68.71
+        },
+        "summary": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "supplier": {
+          "VerifiedCount": 342,
+          "RegocnitionFrequency": 42.69,
+          "RegocnigitonPrecision": 95.21,
+          "CumulativePrecision": 40.64
+        }
+      }
+    }
+  },
+  "02.2018": {
+    "count": 4348,
+    "allDocuments": {
+      "Count": 4348,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "currency": {
+          "VerifiedCount": 4344,
+          "RegocnitionFrequency": 76.63,
+          "RegocnigitonPrecision": 92.91,
+          "CumulativePrecision": 71.20
+        },
+        "documentId": {
+          "VerifiedCount": 4252,
+          "RegocnitionFrequency": 56.66,
+          "RegocnigitonPrecision": 41.01,
+          "CumulativePrecision": 23.24
+        },
+        "dueDate": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "issued": {
+          "VerifiedCount": 4337,
+          "RegocnitionFrequency": 66.45,
+          "RegocnigitonPrecision": 88.17,
+          "CumulativePrecision": 58.59
+        },
+        "summary": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "supplier": {
+          "VerifiedCount": 4346,
+          "RegocnitionFrequency": 39.78,
+          "RegocnigitonPrecision": 98.26,
+          "CumulativePrecision": 39.09
+        }
+      }
+    },
+    "byDocTypeReceipts": {
+      "Count": 3702,
+      "Fields": {
+        "currency": {
+          "VerifiedCount": 3699,
+          "RegocnitionFrequency": 75.02,
+          "RegocnigitonPrecision": 92.54,
+          "CumulativePrecision": 69.42
+        },
+        "documentId": {
+          "VerifiedCount": 3612,
+          "RegocnitionFrequency": 55.51,
+          "RegocnigitonPrecision": 41.10,
+          "CumulativePrecision": 22.81
+        },
+        "issued": {
+          "VerifiedCount": 3692,
+          "RegocnitionFrequency": 62.59,
+          "RegocnigitonPrecision": 92.34,
+          "CumulativePrecision": 57.80
+        },
+        "summary": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "supplier": {
+          "VerifiedCount": 3700,
+          "RegocnitionFrequency": 39.22,
+          "RegocnigitonPrecision": 98.83,
+          "CumulativePrecision": 38.76
+        }
+      }
+    },
+    "byDocTypeInvoices": {
+      "Count": 646,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "currency": {
+          "VerifiedCount": 645,
+          "RegocnitionFrequency": 85.89,
+          "RegocnigitonPrecision": 94.77,
+          "CumulativePrecision": 81.40
+        },
+        "documentId": {
+          "VerifiedCount": 640,
+          "RegocnitionFrequency": 63.12,
+          "RegocnigitonPrecision": 40.59,
+          "CumulativePrecision": 25.62
+        },
+        "dueDate": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "issued": {
+          "VerifiedCount": 645,
+          "RegocnitionFrequency": 88.53,
+          "RegocnigitonPrecision": 71.28,
+          "CumulativePrecision": 63.10
+        },
+        "summary": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "supplier": {
+          "VerifiedCount": 646,
+          "RegocnitionFrequency": 43.03,
+          "RegocnigitonPrecision": 95.32,
+          "CumulativePrecision": 41.02
+        }
+      }
+    }
+  },
+  "03.2018": {
+    "count": 4673,
+    "allDocuments": {
+      "Count": 4673,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "currency": {
+          "VerifiedCount": 4655,
+          "RegocnitionFrequency": 81.31,
+          "RegocnigitonPrecision": 91.41,
+          "CumulativePrecision": 74.33
+        },
+        "documentId": {
+          "VerifiedCount": 4557,
+          "RegocnitionFrequency": 58.53,
+          "RegocnigitonPrecision": 41.96,
+          "CumulativePrecision": 24.56
+        },
+        "dueDate": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "issued": {
+          "VerifiedCount": 4656,
+          "RegocnitionFrequency": 66.92,
+          "RegocnigitonPrecision": 87.20,
+          "CumulativePrecision": 58.35
+        },
+        "summary": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "supplier": {
+          "VerifiedCount": 4655,
+          "RegocnitionFrequency": 42.11,
+          "RegocnigitonPrecision": 98.16,
+          "CumulativePrecision": 41.33
+        }
+      }
+    },
+    "byDocTypeReceipts": {
+      "Count": 3895,
+      "Fields": {
+        "currency": {
+          "VerifiedCount": 3877,
+          "RegocnitionFrequency": 80.73,
+          "RegocnigitonPrecision": 90.19,
+          "CumulativePrecision": 72.81
+        },
+        "documentId": {
+          "VerifiedCount": 3782,
+          "RegocnitionFrequency": 56.13,
+          "RegocnigitonPrecision": 41.87,
+          "CumulativePrecision": 23.51
+        },
+        "issued": {
+          "VerifiedCount": 3879,
+          "RegocnitionFrequency": 62.36,
+          "RegocnigitonPrecision": 91.24,
+          "CumulativePrecision": 56.90
+        },
+        "summary": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "supplier": {
+          "VerifiedCount": 3879,
+          "RegocnitionFrequency": 41.04,
+          "RegocnigitonPrecision": 99.06,
+          "CumulativePrecision": 40.65
+        }
+      }
+    },
+    "byDocTypeInvoices": {
+      "Count": 778,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "currency": {
+          "VerifiedCount": 778,
+          "RegocnitionFrequency": 84.19,
+          "RegocnigitonPrecision": 97.25,
+          "CumulativePrecision": 81.88
+        },
+        "documentId": {
+          "VerifiedCount": 775,
+          "RegocnitionFrequency": 70.19,
+          "RegocnigitonPrecision": 42.28,
+          "CumulativePrecision": 29.68
+        },
+        "dueDate": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "issued": {
+          "VerifiedCount": 777,
+          "RegocnitionFrequency": 89.70,
+          "RegocnigitonPrecision": 73.17,
+          "CumulativePrecision": 65.64
+        },
+        "summary": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "supplier": {
+          "VerifiedCount": 776,
+          "RegocnitionFrequency": 47.42,
+          "RegocnigitonPrecision": 94.29,
+          "CumulativePrecision": 44.72
+        }
+      }
+    }
+  },
+  "04.2018": {
+    "count": 5680,
+    "allDocuments": {
+      "Count": 5680,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "currency": {
+          "VerifiedCount": 5671,
+          "RegocnitionFrequency": 80.60,
+          "RegocnigitonPrecision": 92.80,
+          "CumulativePrecision": 74.80
+        },
+        "documentId": {
+          "VerifiedCount": 5565,
+          "RegocnitionFrequency": 61.19,
+          "RegocnigitonPrecision": 42.70,
+          "CumulativePrecision": 26.13
+        },
+        "dueDate": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "issued": {
+          "VerifiedCount": 5664,
+          "RegocnitionFrequency": 69.58,
+          "RegocnigitonPrecision": 88.81,
+          "CumulativePrecision": 61.79
+        },
+        "summary": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "supplier": {
+          "VerifiedCount": 5668,
+          "RegocnitionFrequency": 45.36,
+          "RegocnigitonPrecision": 98.52,
+          "CumulativePrecision": 44.69
+        }
+      }
+    },
+    "byDocTypeReceipts": {
+      "Count": 4614,
+      "Fields": {
+        "currency": {
+          "VerifiedCount": 4606,
+          "RegocnitionFrequency": 79.37,
+          "RegocnigitonPrecision": 91.85,
+          "CumulativePrecision": 72.90
+        },
+        "documentId": {
+          "VerifiedCount": 4505,
+          "RegocnitionFrequency": 59.53,
+          "RegocnigitonPrecision": 42.39,
+          "CumulativePrecision": 25.24
+        },
+        "issued": {
+          "VerifiedCount": 4598,
+          "RegocnitionFrequency": 65.38,
+          "RegocnigitonPrecision": 91.75,
+          "CumulativePrecision": 59.98
+        },
+        "summary": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "supplier": {
+          "VerifiedCount": 4603,
+          "RegocnitionFrequency": 45.56,
+          "RegocnigitonPrecision": 99.00,
+          "CumulativePrecision": 45.10
+        }
+      }
+    },
+    "byDocTypeInvoices": {
+      "Count": 1066,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "currency": {
+          "VerifiedCount": 1065,
+          "RegocnitionFrequency": 85.92,
+          "RegocnigitonPrecision": 96.61,
+          "CumulativePrecision": 83.00
+        },
+        "documentId": {
+          "VerifiedCount": 1060,
+          "RegocnitionFrequency": 68.21,
+          "RegocnigitonPrecision": 43.85,
+          "CumulativePrecision": 29.91
+        },
+        "dueDate": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "issued": {
+          "VerifiedCount": 1066,
+          "RegocnitionFrequency": 87.71,
+          "RegocnigitonPrecision": 79.36,
+          "CumulativePrecision": 69.61
+        },
+        "summary": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "supplier": {
+          "VerifiedCount": 1065,
+          "RegocnitionFrequency": 44.51,
+          "RegocnigitonPrecision": 96.41,
+          "CumulativePrecision": 42.91
+        }
+      }
+    }
+  },
+  "05.2018": {
+    "count": 6088,
+    "allDocuments": {
+      "Count": 6088,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "currency": {
+          "VerifiedCount": 6074,
+          "RegocnitionFrequency": 81.18,
+          "RegocnigitonPrecision": 91.93,
+          "CumulativePrecision": 74.63
+        },
+        "documentId": {
+          "VerifiedCount": 5917,
+          "RegocnitionFrequency": 58.90,
+          "RegocnigitonPrecision": 42.81,
+          "CumulativePrecision": 25.22
+        },
+        "dueDate": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "issued": {
+          "VerifiedCount": 6073,
+          "RegocnitionFrequency": 66.15,
+          "RegocnigitonPrecision": 89.69,
+          "CumulativePrecision": 59.33
+        },
+        "summary": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "supplier": {
+          "VerifiedCount": 6073,
+          "RegocnitionFrequency": 43.32,
+          "RegocnigitonPrecision": 98.06,
+          "CumulativePrecision": 42.48
+        }
+      }
+    },
+    "byDocTypeReceipts": {
+      "Count": 5216,
+      "Fields": {
+        "currency": {
+          "VerifiedCount": 5205,
+          "RegocnitionFrequency": 80.52,
+          "RegocnigitonPrecision": 91.10,
+          "CumulativePrecision": 73.35
+        },
+        "documentId": {
+          "VerifiedCount": 5063,
+          "RegocnitionFrequency": 57.30,
+          "RegocnigitonPrecision": 42.95,
+          "CumulativePrecision": 24.61
+        },
+        "issued": {
+          "VerifiedCount": 5204,
+          "RegocnitionFrequency": 63.01,
+          "RegocnigitonPrecision": 91.46,
+          "CumulativePrecision": 57.63
+        },
+        "summary": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "supplier": {
+          "VerifiedCount": 5205,
+          "RegocnitionFrequency": 42.56,
+          "RegocnigitonPrecision": 98.87,
+          "CumulativePrecision": 42.07
+        }
+      }
+    },
+    "byDocTypeInvoices": {
+      "Count": 872,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "currency": {
+          "VerifiedCount": 869,
+          "RegocnitionFrequency": 85.16,
+          "RegocnigitonPrecision": 96.62,
+          "CumulativePrecision": 82.28
+        },
+        "documentId": {
+          "VerifiedCount": 854,
+          "RegocnitionFrequency": 68.38,
+          "RegocnigitonPrecision": 42.12,
+          "CumulativePrecision": 28.81
+        },
+        "dueDate": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "issued": {
+          "VerifiedCount": 869,
+          "RegocnitionFrequency": 84.93,
+          "RegocnigitonPrecision": 81.84,
+          "CumulativePrecision": 69.51
+        },
+        "summary": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "supplier": {
+          "VerifiedCount": 868,
+          "RegocnitionFrequency": 47.93,
+          "RegocnigitonPrecision": 93.75,
+          "CumulativePrecision": 44.93
+        }
+      }
+    }
+  },
+  "06.2018": {
+    "count": 6919,
+    "allDocuments": {
+      "Count": 6919,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "currency": {
+          "VerifiedCount": 6912,
+          "RegocnitionFrequency": 79.66,
+          "RegocnigitonPrecision": 92.54,
+          "CumulativePrecision": 73.71
+        },
+        "documentId": {
+          "VerifiedCount": 6732,
+          "RegocnitionFrequency": 59.67,
+          "RegocnigitonPrecision": 43.54,
+          "CumulativePrecision": 25.98
+        },
+        "dueDate": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "issued": {
+          "VerifiedCount": 6912,
+          "RegocnitionFrequency": 67.78,
+          "RegocnigitonPrecision": 89.69,
+          "CumulativePrecision": 60.79
+        },
+        "summary": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "supplier": {
+          "VerifiedCount": 6912,
+          "RegocnitionFrequency": 44.05,
+          "RegocnigitonPrecision": 97.93,
+          "CumulativePrecision": 43.14
+        }
+      }
+    },
+    "byDocTypeReceipts": {
+      "Count": 5543,
+      "Fields": {
+        "currency": {
+          "VerifiedCount": 5537,
+          "RegocnitionFrequency": 78.54,
+          "RegocnigitonPrecision": 91.75,
+          "CumulativePrecision": 72.06
+        },
+        "documentId": {
+          "VerifiedCount": 5379,
+          "RegocnitionFrequency": 58.00,
+          "RegocnigitonPrecision": 44.42,
+          "CumulativePrecision": 25.77
+        },
+        "issued": {
+          "VerifiedCount": 5537,
+          "RegocnitionFrequency": 63.63,
+          "RegocnigitonPrecision": 92.48,
+          "CumulativePrecision": 58.84
+        },
+        "summary": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "supplier": {
+          "VerifiedCount": 5537,
+          "RegocnitionFrequency": 43.42,
+          "RegocnigitonPrecision": 99.21,
+          "CumulativePrecision": 43.07
+        }
+      }
+    },
+    "byDocTypeInvoices": {
+      "Count": 1376,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "currency": {
+          "VerifiedCount": 1375,
+          "RegocnitionFrequency": 84.15,
+          "RegocnigitonPrecision": 95.51,
+          "CumulativePrecision": 80.36
+        },
+        "documentId": {
+          "VerifiedCount": 1353,
+          "RegocnitionFrequency": 66.30,
+          "RegocnigitonPrecision": 40.47,
+          "CumulativePrecision": 26.83
+        },
+        "dueDate": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "issued": {
+          "VerifiedCount": 1375,
+          "RegocnitionFrequency": 84.51,
+          "RegocnigitonPrecision": 81.24,
+          "CumulativePrecision": 68.65
+        },
+        "summary": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "supplier": {
+          "VerifiedCount": 1375,
+          "RegocnitionFrequency": 46.62,
+          "RegocnigitonPrecision": 93.14,
+          "CumulativePrecision": 43.42
+        }
+      }
+    }
+  },
+  "07.2018": {
+    "count": 6587,
+    "allDocuments": {
+      "Count": 6587,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "currency": {
+          "VerifiedCount": 6547,
+          "RegocnitionFrequency": 81.06,
+          "RegocnigitonPrecision": 94.16,
+          "CumulativePrecision": 76.33
+        },
+        "documentId": {
+          "VerifiedCount": 6424,
+          "RegocnitionFrequency": 63.87,
+          "RegocnigitonPrecision": 43.41,
+          "CumulativePrecision": 27.72
+        },
+        "dueDate": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "issued": {
+          "VerifiedCount": 6546,
+          "RegocnitionFrequency": 71.19,
+          "RegocnigitonPrecision": 86.80,
+          "CumulativePrecision": 61.79
+        },
+        "summary": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "supplier": {
+          "VerifiedCount": 6542,
+          "RegocnitionFrequency": 55.47,
+          "RegocnigitonPrecision": 95.56,
+          "CumulativePrecision": 53.01
+        }
+      }
+    },
+    "byDocTypeReceipts": {
+      "Count": 4967,
+      "Fields": {
+        "currency": {
+          "VerifiedCount": 4933,
+          "RegocnitionFrequency": 79.36,
+          "RegocnigitonPrecision": 93.15,
+          "CumulativePrecision": 73.93
+        },
+        "documentId": {
+          "VerifiedCount": 4817,
+          "RegocnitionFrequency": 59.25,
+          "RegocnigitonPrecision": 43.06,
+          "CumulativePrecision": 25.51
+        },
+        "issued": {
+          "VerifiedCount": 4930,
+          "RegocnitionFrequency": 66.49,
+          "RegocnigitonPrecision": 90.05,
+          "CumulativePrecision": 59.88
+        },
+        "summary": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "supplier": {
+          "VerifiedCount": 4929,
+          "RegocnitionFrequency": 54.43,
+          "RegocnigitonPrecision": 97.54,
+          "CumulativePrecision": 53.09
+        }
+      }
+    },
+    "byDocTypeInvoices": {
+      "Count": 1620,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "currency": {
+          "VerifiedCount": 1614,
+          "RegocnitionFrequency": 86.25,
+          "RegocnigitonPrecision": 96.98,
+          "CumulativePrecision": 83.64
+        },
+        "documentId": {
+          "VerifiedCount": 1607,
+          "RegocnitionFrequency": 77.72,
+          "RegocnigitonPrecision": 44.20,
+          "CumulativePrecision": 34.35
+        },
+        "dueDate": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "issued": {
+          "VerifiedCount": 1616,
+          "RegocnitionFrequency": 85.52,
+          "RegocnigitonPrecision": 79.09,
+          "CumulativePrecision": 67.64
+        },
+        "summary": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "supplier": {
+          "VerifiedCount": 1613,
+          "RegocnitionFrequency": 58.65,
+          "RegocnigitonPrecision": 89.96,
+          "CumulativePrecision": 52.76
+        }
+      }
+    }
+  },
+  "08.2018": {
+    "count": 8354,
+    "allDocuments": {
+      "Count": 8354,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "currency": {
+          "VerifiedCount": 8315,
+          "RegocnitionFrequency": 79.82,
+          "RegocnigitonPrecision": 97.74,
+          "CumulativePrecision": 78.02
+        },
+        "documentId": {
+          "VerifiedCount": 8132,
+          "RegocnitionFrequency": 70.18,
+          "RegocnigitonPrecision": 45.84,
+          "CumulativePrecision": 32.17
+        },
+        "dueDate": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "issued": {
+          "VerifiedCount": 8317,
+          "RegocnitionFrequency": 68.79,
+          "RegocnigitonPrecision": 87.40,
+          "CumulativePrecision": 60.12
+        },
+        "summary": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "supplier": {
+          "VerifiedCount": 8314,
+          "RegocnitionFrequency": 73.13,
+          "RegocnigitonPrecision": 94.82,
+          "CumulativePrecision": 69.34
+        }
+      }
+    },
+    "byDocTypeReceipts": {
+      "Count": 6567,
+      "Fields": {
+        "currency": {
+          "VerifiedCount": 6530,
+          "RegocnitionFrequency": 79.07,
+          "RegocnigitonPrecision": 97.66,
+          "CumulativePrecision": 77.21
+        },
+        "documentId": {
+          "VerifiedCount": 6374,
+          "RegocnitionFrequency": 65.81,
+          "RegocnigitonPrecision": 44.89,
+          "CumulativePrecision": 29.54
+        },
+        "issued": {
+          "VerifiedCount": 6530,
+          "RegocnitionFrequency": 64.55,
+          "RegocnigitonPrecision": 91.53,
+          "CumulativePrecision": 59.08
+        },
+        "summary": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "supplier": {
+          "VerifiedCount": 6529,
+          "RegocnitionFrequency": 71.74,
+          "RegocnigitonPrecision": 97.12,
+          "CumulativePrecision": 69.67
+        }
+      }
+    },
+    "byDocTypeInvoices": {
+      "Count": 1787,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "currency": {
+          "VerifiedCount": 1785,
+          "RegocnitionFrequency": 82.58,
+          "RegocnigitonPrecision": 98.03,
+          "CumulativePrecision": 80.95
+        },
+        "documentId": {
+          "VerifiedCount": 1758,
+          "RegocnitionFrequency": 86.01,
+          "RegocnigitonPrecision": 48.48,
+          "CumulativePrecision": 41.70
+        },
+        "dueDate": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "issued": {
+          "VerifiedCount": 1787,
+          "RegocnitionFrequency": 84.28,
+          "RegocnigitonPrecision": 75.83,
+          "CumulativePrecision": 63.91
+        },
+        "summary": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "supplier": {
+          "VerifiedCount": 1785,
+          "RegocnitionFrequency": 78.21,
+          "RegocnigitonPrecision": 87.11,
+          "CumulativePrecision": 68.12
+        }
+      }
+    }
+  },
+  "09.2018": {
+    "count": 9160,
+    "allDocuments": {
+      "Count": 9160,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "currency": {
+          "VerifiedCount": 9103,
+          "RegocnitionFrequency": 80.63,
+          "RegocnigitonPrecision": 98.99,
+          "CumulativePrecision": 79.82
+        },
+        "documentId": {
+          "VerifiedCount": 8913,
+          "RegocnitionFrequency": 69.63,
+          "RegocnigitonPrecision": 46.70,
+          "CumulativePrecision": 32.51
+        },
+        "dueDate": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "issued": {
+          "VerifiedCount": 9102,
+          "RegocnitionFrequency": 67.42,
+          "RegocnigitonPrecision": 88.37,
+          "CumulativePrecision": 59.58
+        },
+        "summary": {
+          "VerifiedCount": 8,
+          "RegocnitionFrequency": 37.50,
+          "RegocnigitonPrecision": 33.33,
+          "CumulativePrecision": 12.50
+        },
+        "supplier": {
+          "VerifiedCount": 9105,
+          "RegocnitionFrequency": 78.90,
+          "RegocnigitonPrecision": 95.23,
+          "CumulativePrecision": 75.13
+        }
+      }
+    },
+    "byDocTypeReceipts": {
+      "Count": 6936,
+      "Fields": {
+        "currency": {
+          "VerifiedCount": 6881,
+          "RegocnitionFrequency": 79.60,
+          "RegocnigitonPrecision": 99.05,
+          "CumulativePrecision": 78.84
+        },
+        "documentId": {
+          "VerifiedCount": 6712,
+          "RegocnitionFrequency": 64.71,
+          "RegocnigitonPrecision": 44.69,
+          "CumulativePrecision": 28.92
+        },
+        "issued": {
+          "VerifiedCount": 6881,
+          "RegocnitionFrequency": 61.46,
+          "RegocnigitonPrecision": 92.65,
+          "CumulativePrecision": 56.94
+        },
+        "summary": {
+          "VerifiedCount": 8,
+          "RegocnitionFrequency": 37.50,
+          "RegocnigitonPrecision": 33.33,
+          "CumulativePrecision": 12.50
+        },
+        "supplier": {
+          "VerifiedCount": 6883,
+          "RegocnitionFrequency": 76.91,
+          "RegocnigitonPrecision": 97.70,
+          "CumulativePrecision": 75.14
+        }
+      }
+    },
+    "byDocTypeInvoices": {
+      "Count": 2224,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "currency": {
+          "VerifiedCount": 2222,
+          "RegocnitionFrequency": 83.84,
+          "RegocnigitonPrecision": 98.82,
+          "CumulativePrecision": 82.85
+        },
+        "documentId": {
+          "VerifiedCount": 2201,
+          "RegocnitionFrequency": 84.64,
+          "RegocnigitonPrecision": 51.37,
+          "CumulativePrecision": 43.48
+        },
+        "dueDate": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "issued": {
+          "VerifiedCount": 2221,
+          "RegocnitionFrequency": 85.91,
+          "RegocnigitonPrecision": 78.88,
+          "CumulativePrecision": 67.76
+        },
+        "summary": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "supplier": {
+          "VerifiedCount": 2222,
+          "RegocnitionFrequency": 85.06,
+          "RegocnigitonPrecision": 88.31,
+          "CumulativePrecision": 75.11
+        }
+      }
+    }
+  },
+  "10.2018": {
+    "count": 9263,
+    "allDocuments": {
+      "Count": 9263,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 4,
+          "RegocnitionFrequency": 25.00,
+          "RegocnigitonPrecision": 100.0,
+          "CumulativePrecision": 25.00
+        },
+        "currency": {
+          "VerifiedCount": 9230,
+          "RegocnitionFrequency": 80.98,
+          "RegocnigitonPrecision": 99.77,
+          "CumulativePrecision": 80.79
+        },
+        "documentId": {
+          "VerifiedCount": 9074,
+          "RegocnitionFrequency": 69.89,
+          "RegocnigitonPrecision": 46.50,
+          "CumulativePrecision": 32.50
+        },
+        "dueDate": {
+          "VerifiedCount": 3,
+          "RegocnitionFrequency": 33.33,
+          "RegocnigitonPrecision": 100.0,
+          "CumulativePrecision": 33.33
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 2,
+          "RegocnitionFrequency": 0.0,
+          "RegocnigitonPrecision": 0.0,
+          "CumulativePrecision": 0.0
+        },
+        "issued": {
+          "VerifiedCount": 9230,
+          "RegocnitionFrequency": 68.30,
+          "RegocnigitonPrecision": 88.93,
+          "CumulativePrecision": 60.74
+        },
+        "summary": {
+          "VerifiedCount": 39,
+          "RegocnitionFrequency": 82.05,
+          "RegocnigitonPrecision": 62.50,
+          "CumulativePrecision": 51.28
+        },
+        "supplier": {
+          "VerifiedCount": 9233,
+          "RegocnitionFrequency": 83.63,
+          "RegocnigitonPrecision": 95.10,
+          "CumulativePrecision": 79.54
+        }
+      }
+    },
+    "byDocTypeReceipts": {
+      "Count": 7085,
+      "Fields": {
+        "currency": {
+          "VerifiedCount": 7058,
+          "RegocnitionFrequency": 79.91,
+          "RegocnigitonPrecision": 99.89,
+          "CumulativePrecision": 79.82
+        },
+        "documentId": {
+          "VerifiedCount": 6926,
+          "RegocnitionFrequency": 64.94,
+          "RegocnigitonPrecision": 44.71,
+          "CumulativePrecision": 29.04
+        },
+        "issued": {
+          "VerifiedCount": 7057,
+          "RegocnitionFrequency": 63.17,
+          "RegocnigitonPrecision": 92.40,
+          "CumulativePrecision": 58.37
+        },
+        "summary": {
+          "VerifiedCount": 35,
+          "RegocnitionFrequency": 82.86,
+          "RegocnigitonPrecision": 65.52,
+          "CumulativePrecision": 54.29
+        },
+        "supplier": {
+          "VerifiedCount": 7060,
+          "RegocnitionFrequency": 81.35,
+          "RegocnigitonPrecision": 96.95,
+          "CumulativePrecision": 78.87
+        }
+      }
+    },
+    "byDocTypeInvoices": {
+      "Count": 2178,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 4,
+          "RegocnitionFrequency": 25.00,
+          "RegocnigitonPrecision": 100.0,
+          "CumulativePrecision": 25.00
+        },
+        "currency": {
+          "VerifiedCount": 2172,
+          "RegocnitionFrequency": 84.44,
+          "RegocnigitonPrecision": 99.40,
+          "CumulativePrecision": 83.93
+        },
+        "documentId": {
+          "VerifiedCount": 2148,
+          "RegocnitionFrequency": 85.85,
+          "RegocnigitonPrecision": 50.87,
+          "CumulativePrecision": 43.67
+        },
+        "dueDate": {
+          "VerifiedCount": 3,
+          "RegocnitionFrequency": 33.33,
+          "RegocnigitonPrecision": 100.0,
+          "CumulativePrecision": 33.33
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 2,
+          "RegocnitionFrequency": 0.0,
+          "RegocnigitonPrecision": 0.0,
+          "CumulativePrecision": 0.0
+        },
+        "issued": {
+          "VerifiedCount": 2173,
+          "RegocnitionFrequency": 84.95,
+          "RegocnigitonPrecision": 80.55,
+          "CumulativePrecision": 68.43
+        },
+        "summary": {
+          "VerifiedCount": 4,
+          "RegocnitionFrequency": 75.00,
+          "RegocnigitonPrecision": 33.33,
+          "CumulativePrecision": 25.00
+        },
+        "supplier": {
+          "VerifiedCount": 2173,
+          "RegocnitionFrequency": 91.07,
+          "RegocnigitonPrecision": 89.74,
+          "CumulativePrecision": 81.73
+        }
+      }
+    }
+  },
+  "11.2018": {
+    "count": 9794,
+    "allDocuments": {
+      "Count": 9794,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 3,
+          "RegocnitionFrequency": 100.0,
+          "RegocnigitonPrecision": 100.0,
+          "CumulativePrecision": 100.0
+        },
+        "currency": {
+          "VerifiedCount": 9735,
+          "RegocnitionFrequency": 79.67,
+          "RegocnigitonPrecision": 99.34,
+          "CumulativePrecision": 79.15
+        },
+        "documentId": {
+          "VerifiedCount": 9454,
+          "RegocnitionFrequency": 75.32,
+          "RegocnigitonPrecision": 46.57,
+          "CumulativePrecision": 35.08
+        },
+        "dueDate": {
+          "VerifiedCount": 3,
+          "RegocnitionFrequency": 33.33,
+          "RegocnigitonPrecision": 0.0,
+          "CumulativePrecision": 0.0
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "issued": {
+          "VerifiedCount": 9684,
+          "RegocnitionFrequency": 67.99,
+          "RegocnigitonPrecision": 88.30,
+          "CumulativePrecision": 60.04
+        },
+        "summary": {
+          "VerifiedCount": 71,
+          "RegocnitionFrequency": 23.94,
+          "RegocnigitonPrecision": 47.06,
+          "CumulativePrecision": 11.27
+        },
+        "supplier": {
+          "VerifiedCount": 9731,
+          "RegocnitionFrequency": 81.00,
+          "RegocnigitonPrecision": 95.12,
+          "CumulativePrecision": 77.04
+        }
+      }
+    },
+    "byDocTypeReceipts": {
+      "Count": 7223,
+      "Fields": {
+        "currency": {
+          "VerifiedCount": 7164,
+          "RegocnitionFrequency": 78.63,
+          "RegocnigitonPrecision": 99.59,
+          "CumulativePrecision": 78.31
+        },
+        "documentId": {
+          "VerifiedCount": 6929,
+          "RegocnitionFrequency": 71.53,
+          "RegocnigitonPrecision": 45.40,
+          "CumulativePrecision": 32.47
+        },
+        "issued": {
+          "VerifiedCount": 7113,
+          "RegocnitionFrequency": 62.14,
+          "RegocnigitonPrecision": 91.83,
+          "CumulativePrecision": 57.06
+        },
+        "summary": {
+          "VerifiedCount": 69,
+          "RegocnitionFrequency": 21.74,
+          "RegocnigitonPrecision": 40.0,
+          "CumulativePrecision": 8.70
+        },
+        "supplier": {
+          "VerifiedCount": 7160,
+          "RegocnitionFrequency": 78.80,
+          "RegocnigitonPrecision": 97.61,
+          "CumulativePrecision": 76.91
+        }
+      }
+    },
+    "byDocTypeInvoices": {
+      "Count": 2571,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 3,
+          "RegocnitionFrequency": 100.0,
+          "RegocnigitonPrecision": 100.0,
+          "CumulativePrecision": 100.0
+        },
+        "currency": {
+          "VerifiedCount": 2571,
+          "RegocnitionFrequency": 82.57,
+          "RegocnigitonPrecision": 98.68,
+          "CumulativePrecision": 81.49
+        },
+        "documentId": {
+          "VerifiedCount": 2525,
+          "RegocnitionFrequency": 85.74,
+          "RegocnigitonPrecision": 49.24,
+          "CumulativePrecision": 42.22
+        },
+        "dueDate": {
+          "VerifiedCount": 3,
+          "RegocnitionFrequency": 33.33,
+          "RegocnigitonPrecision": 0.0,
+          "CumulativePrecision": 0.0
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 0,
+          "RegocnitionFrequency": -100.0,
+          "RegocnigitonPrecision": -100.0,
+          "CumulativePrecision": 100.0
+        },
+        "issued": {
+          "VerifiedCount": 2571,
+          "RegocnitionFrequency": 84.17,
+          "RegocnigitonPrecision": 81.10,
+          "CumulativePrecision": 68.26
+        },
+        "summary": {
+          "VerifiedCount": 2,
+          "RegocnitionFrequency": 100.0,
+          "RegocnigitonPrecision": 100.0,
+          "CumulativePrecision": 100.0
+        },
+        "supplier": {
+          "VerifiedCount": 2571,
+          "RegocnitionFrequency": 87.13,
+          "RegocnigitonPrecision": 88.84,
+          "CumulativePrecision": 77.40
+        }
+      }
+    }
+  },
+  "12.2018": {
+    "count": 11376,
+    "allDocuments": {
+      "Count": 11376,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 1146,
+          "RegocnitionFrequency": 99.13,
+          "RegocnigitonPrecision": 99.21,
+          "CumulativePrecision": 98.34
+        },
+        "currency": {
+          "VerifiedCount": 11334,
+          "RegocnitionFrequency": 80.34,
+          "RegocnigitonPrecision": 98.90,
+          "CumulativePrecision": 79.46
+        },
+        "documentId": {
+          "VerifiedCount": 10947,
+          "RegocnitionFrequency": 80.19,
+          "RegocnigitonPrecision": 44.04,
+          "CumulativePrecision": 35.32
+        },
+        "dueDate": {
+          "VerifiedCount": 614,
+          "RegocnitionFrequency": 93.97,
+          "RegocnigitonPrecision": 14.04,
+          "CumulativePrecision": 13.19
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 26,
+          "RegocnitionFrequency": 50.0,
+          "RegocnigitonPrecision": 84.62,
+          "CumulativePrecision": 42.31
+        },
+        "issued": {
+          "VerifiedCount": 11228,
+          "RegocnitionFrequency": 68.39,
+          "RegocnigitonPrecision": 89.78,
+          "CumulativePrecision": 61.40
+        },
+        "summary": {
+          "VerifiedCount": 503,
+          "RegocnitionFrequency": 55.67,
+          "RegocnigitonPrecision": 58.57,
+          "CumulativePrecision": 32.60
+        },
+        "supplier": {
+          "VerifiedCount": 11304,
+          "RegocnitionFrequency": 79.98,
+          "RegocnigitonPrecision": 95.77,
+          "CumulativePrecision": 76.60
+        }
+      }
+    },
+    "byDocTypeReceipts": {
+      "Count": 7948,
+      "Fields": {
+        "currency": {
+          "VerifiedCount": 7910,
+          "RegocnitionFrequency": 79.49,
+          "RegocnigitonPrecision": 99.32,
+          "CumulativePrecision": 78.95
+        },
+        "documentId": {
+          "VerifiedCount": 7656,
+          "RegocnitionFrequency": 77.81,
+          "RegocnigitonPrecision": 42.32,
+          "CumulativePrecision": 32.93
+        },
+        "issued": {
+          "VerifiedCount": 7805,
+          "RegocnitionFrequency": 62.74,
+          "RegocnigitonPrecision": 90.99,
+          "CumulativePrecision": 57.09
+        },
+        "summary": {
+          "VerifiedCount": 359,
+          "RegocnitionFrequency": 54.04,
+          "RegocnigitonPrecision": 58.25,
+          "CumulativePrecision": 31.48
+        },
+        "supplier": {
+          "VerifiedCount": 7883,
+          "RegocnitionFrequency": 80.45,
+          "RegocnigitonPrecision": 97.56,
+          "CumulativePrecision": 78.49
+        }
+      }
+    },
+    "byDocTypeInvoices": {
+      "Count": 3428,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 1146,
+          "RegocnitionFrequency": 99.13,
+          "RegocnigitonPrecision": 99.21,
+          "CumulativePrecision": 98.34
+        },
+        "currency": {
+          "VerifiedCount": 3424,
+          "RegocnitionFrequency": 82.30,
+          "RegocnigitonPrecision": 97.98,
+          "CumulativePrecision": 80.64
+        },
+        "documentId": {
+          "VerifiedCount": 3291,
+          "RegocnitionFrequency": 85.72,
+          "RegocnigitonPrecision": 47.68,
+          "CumulativePrecision": 40.87
+        },
+        "dueDate": {
+          "VerifiedCount": 583,
+          "RegocnitionFrequency": 94.34,
+          "RegocnigitonPrecision": 13.64,
+          "CumulativePrecision": 12.86
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 22,
+          "RegocnitionFrequency": 59.09,
+          "RegocnigitonPrecision": 84.62,
+          "CumulativePrecision": 50.00
+        },
+        "issued": {
+          "VerifiedCount": 3423,
+          "RegocnitionFrequency": 81.27,
+          "RegocnigitonPrecision": 87.63,
+          "CumulativePrecision": 71.22
+        },
+        "summary": {
+          "VerifiedCount": 144,
+          "RegocnitionFrequency": 59.72,
+          "RegocnigitonPrecision": 59.30,
+          "CumulativePrecision": 35.42
+        },
+        "supplier": {
+          "VerifiedCount": 3421,
+          "RegocnitionFrequency": 78.90,
+          "RegocnigitonPrecision": 91.59,
+          "CumulativePrecision": 72.26
+        }
+      }
+    }
+  },
+  "01.2019": {
+    "count": 12226,
+    "allDocuments": {
+      "Count": 12226,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 2656,
+          "RegocnitionFrequency": 97.93,
+          "RegocnigitonPrecision": 98.35,
+          "CumulativePrecision": 96.31
+        },
+        "currency": {
+          "VerifiedCount": 12161,
+          "RegocnitionFrequency": 81.39,
+          "RegocnigitonPrecision": 98.86,
+          "CumulativePrecision": 80.46
+        },
+        "documentId": {
+          "VerifiedCount": 11812,
+          "RegocnitionFrequency": 80.11,
+          "RegocnigitonPrecision": 60.41,
+          "CumulativePrecision": 48.40
+        },
+        "dueDate": {
+          "VerifiedCount": 2340,
+          "RegocnitionFrequency": 77.44,
+          "RegocnigitonPrecision": 91.06,
+          "CumulativePrecision": 70.51
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 388,
+          "RegocnitionFrequency": 72.68,
+          "RegocnigitonPrecision": 86.52,
+          "CumulativePrecision": 62.89
+        },
+        "issued": {
+          "VerifiedCount": 12101,
+          "RegocnitionFrequency": 83.22,
+          "RegocnigitonPrecision": 90.16,
+          "CumulativePrecision": 75.03
+        },
+        "summary": {
+          "VerifiedCount": 12038,
+          "RegocnitionFrequency": 52.77,
+          "RegocnigitonPrecision": 79.35,
+          "CumulativePrecision": 41.87
+        },
+        "supplier": {
+          "VerifiedCount": 12113,
+          "RegocnitionFrequency": 82.56,
+          "RegocnigitonPrecision": 96.43,
+          "CumulativePrecision": 79.62
+        }
+      }
+    },
+    "byDocTypeReceipts": {
+      "Count": 8590,
+      "Fields": {
+        "currency": {
+          "VerifiedCount": 8535,
+          "RegocnitionFrequency": 80.80,
+          "RegocnigitonPrecision": 98.90,
+          "CumulativePrecision": 79.91
+        },
+        "documentId": {
+          "VerifiedCount": 8254,
+          "RegocnitionFrequency": 76.35,
+          "RegocnigitonPrecision": 63.25,
+          "CumulativePrecision": 48.29
+        },
+        "issued": {
+          "VerifiedCount": 8470,
+          "RegocnitionFrequency": 81.98,
+          "RegocnigitonPrecision": 89.93,
+          "CumulativePrecision": 73.73
+        },
+        "summary": {
+          "VerifiedCount": 8444,
+          "RegocnitionFrequency": 50.99,
+          "RegocnigitonPrecision": 78.75,
+          "CumulativePrecision": 40.16
+        },
+        "supplier": {
+          "VerifiedCount": 8495,
+          "RegocnitionFrequency": 80.69,
+          "RegocnigitonPrecision": 98.12,
+          "CumulativePrecision": 79.18
+        }
+      }
+    },
+    "byDocTypeInvoices": {
+      "Count": 3636,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 2656,
+          "RegocnitionFrequency": 97.93,
+          "RegocnigitonPrecision": 98.35,
+          "CumulativePrecision": 96.31
+        },
+        "currency": {
+          "VerifiedCount": 3626,
+          "RegocnitionFrequency": 82.79,
+          "RegocnigitonPrecision": 98.77,
+          "CumulativePrecision": 81.77
+        },
+        "documentId": {
+          "VerifiedCount": 3558,
+          "RegocnitionFrequency": 88.84,
+          "RegocnigitonPrecision": 54.76,
+          "CumulativePrecision": 48.65
+        },
+        "dueDate": {
+          "VerifiedCount": 2274,
+          "RegocnitionFrequency": 76.96,
+          "RegocnigitonPrecision": 91.37,
+          "CumulativePrecision": 70.32
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 369,
+          "RegocnitionFrequency": 72.90,
+          "RegocnigitonPrecision": 90.71,
+          "CumulativePrecision": 66.12
+        },
+        "issued": {
+          "VerifiedCount": 3631,
+          "RegocnitionFrequency": 86.09,
+          "RegocnigitonPrecision": 90.66,
+          "CumulativePrecision": 78.05
+        },
+        "summary": {
+          "VerifiedCount": 3594,
+          "RegocnitionFrequency": 56.93,
+          "RegocnigitonPrecision": 80.60,
+          "CumulativePrecision": 45.88
+        },
+        "supplier": {
+          "VerifiedCount": 3618,
+          "RegocnitionFrequency": 86.95,
+          "RegocnigitonPrecision": 92.75,
+          "CumulativePrecision": 80.65
+        }
+      }
+    }
+  },
+  "02.2019": {
+    "count": 10373,
+    "allDocuments": {
+      "Count": 10373,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 2846,
+          "RegocnitionFrequency": 93.99,
+          "RegocnigitonPrecision": 98.09,
+          "CumulativePrecision": 92.20
+        },
+        "currency": {
+          "VerifiedCount": 10330,
+          "RegocnitionFrequency": 88.41,
+          "RegocnigitonPrecision": 97.00,
+          "CumulativePrecision": 85.76
+        },
+        "documentId": {
+          "VerifiedCount": 9981,
+          "RegocnitionFrequency": 81.81,
+          "RegocnigitonPrecision": 62.31,
+          "CumulativePrecision": 50.98
+        },
+        "dueDate": {
+          "VerifiedCount": 2541,
+          "RegocnitionFrequency": 72.26,
+          "RegocnigitonPrecision": 96.51,
+          "CumulativePrecision": 69.74
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 265,
+          "RegocnitionFrequency": 26.04,
+          "RegocnigitonPrecision": 30.43,
+          "CumulativePrecision": 7.92
+        },
+        "issued": {
+          "VerifiedCount": 10145,
+          "RegocnitionFrequency": 83.04,
+          "RegocnigitonPrecision": 90.31,
+          "CumulativePrecision": 74.99
+        },
+        "summary": {
+          "VerifiedCount": 10219,
+          "RegocnitionFrequency": 54.83,
+          "RegocnigitonPrecision": 79.90,
+          "CumulativePrecision": 43.81
+        },
+        "supplier": {
+          "VerifiedCount": 10239,
+          "RegocnitionFrequency": 83.26,
+          "RegocnigitonPrecision": 96.95,
+          "CumulativePrecision": 80.72
+        }
+      }
+    },
+    "byDocTypeReceipts": {
+      "Count": 6989,
+      "Fields": {
+        "currency": {
+          "VerifiedCount": 6950,
+          "RegocnitionFrequency": 88.16,
+          "RegocnigitonPrecision": 96.13,
+          "CumulativePrecision": 84.75
+        },
+        "documentId": {
+          "VerifiedCount": 6680,
+          "RegocnitionFrequency": 78.56,
+          "RegocnigitonPrecision": 65.87,
+          "CumulativePrecision": 51.75
+        },
+        "issued": {
+          "VerifiedCount": 6783,
+          "RegocnitionFrequency": 82.54,
+          "RegocnigitonPrecision": 89.87,
+          "CumulativePrecision": 74.19
+        },
+        "summary": {
+          "VerifiedCount": 6858,
+          "RegocnitionFrequency": 52.54,
+          "RegocnigitonPrecision": 78.85,
+          "CumulativePrecision": 41.43
+        },
+        "supplier": {
+          "VerifiedCount": 6872,
+          "RegocnitionFrequency": 81.00,
+          "RegocnigitonPrecision": 98.54,
+          "CumulativePrecision": 79.82
+        }
+      }
+    },
+    "byDocTypeInvoices": {
+      "Count": 3384,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 2846,
+          "RegocnitionFrequency": 93.99,
+          "RegocnigitonPrecision": 98.09,
+          "CumulativePrecision": 92.20
+        },
+        "currency": {
+          "VerifiedCount": 3380,
+          "RegocnitionFrequency": 88.93,
+          "RegocnigitonPrecision": 98.77,
+          "CumulativePrecision": 87.84
+        },
+        "documentId": {
+          "VerifiedCount": 3301,
+          "RegocnitionFrequency": 88.37,
+          "RegocnigitonPrecision": 55.91,
+          "CumulativePrecision": 49.41
+        },
+        "dueDate": {
+          "VerifiedCount": 2486,
+          "RegocnitionFrequency": 71.92,
+          "RegocnigitonPrecision": 96.53,
+          "CumulativePrecision": 69.43
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 233,
+          "RegocnitionFrequency": 18.45,
+          "RegocnigitonPrecision": 48.84,
+          "CumulativePrecision": 9.01
+        },
+        "issued": {
+          "VerifiedCount": 3362,
+          "RegocnitionFrequency": 84.03,
+          "RegocnigitonPrecision": 91.19,
+          "CumulativePrecision": 76.62
+        },
+        "summary": {
+          "VerifiedCount": 3361,
+          "RegocnitionFrequency": 59.51,
+          "RegocnigitonPrecision": 81.80,
+          "CumulativePrecision": 48.68
+        },
+        "supplier": {
+          "VerifiedCount": 3367,
+          "RegocnitionFrequency": 87.88,
+          "RegocnigitonPrecision": 93.95,
+          "CumulativePrecision": 82.57
+        }
+      }
+    }
+  },
+  "03.2019": {
+    "count": 11047,
+    "allDocuments": {
+      "Count": 11047,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 3186,
+          "RegocnitionFrequency": 90.74,
+          "RegocnigitonPrecision": 98.75,
+          "CumulativePrecision": 89.61
+        },
+        "currency": {
+          "VerifiedCount": 10992,
+          "RegocnitionFrequency": 88.54,
+          "RegocnigitonPrecision": 97.62,
+          "CumulativePrecision": 86.43
+        },
+        "documentId": {
+          "VerifiedCount": 10653,
+          "RegocnitionFrequency": 78.78,
+          "RegocnigitonPrecision": 61.65,
+          "CumulativePrecision": 48.57
+        },
+        "dueDate": {
+          "VerifiedCount": 2740,
+          "RegocnitionFrequency": 74.23,
+          "RegocnigitonPrecision": 96.76,
+          "CumulativePrecision": 71.82
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 308,
+          "RegocnitionFrequency": 26.62,
+          "RegocnigitonPrecision": 10.98,
+          "CumulativePrecision": 2.92
+        },
+        "issued": {
+          "VerifiedCount": 10876,
+          "RegocnitionFrequency": 79.77,
+          "RegocnigitonPrecision": 89.53,
+          "CumulativePrecision": 71.42
+        },
+        "summary": {
+          "VerifiedCount": 10883,
+          "RegocnitionFrequency": 52.51,
+          "RegocnigitonPrecision": 78.92,
+          "CumulativePrecision": 41.44
+        },
+        "supplier": {
+          "VerifiedCount": 10919,
+          "RegocnitionFrequency": 82.33,
+          "RegocnigitonPrecision": 95.56,
+          "CumulativePrecision": 78.68
+        }
+      }
+    },
+    "byDocTypeReceipts": {
+      "Count": 7135,
+      "Fields": {
+        "currency": {
+          "VerifiedCount": 7091,
+          "RegocnitionFrequency": 87.05,
+          "RegocnigitonPrecision": 97.26,
+          "CumulativePrecision": 84.67
+        },
+        "documentId": {
+          "VerifiedCount": 6853,
+          "RegocnitionFrequency": 73.94,
+          "RegocnigitonPrecision": 64.42,
+          "CumulativePrecision": 47.63
+        },
+        "issued": {
+          "VerifiedCount": 6992,
+          "RegocnitionFrequency": 78.12,
+          "RegocnigitonPrecision": 89.25,
+          "CumulativePrecision": 69.72
+        },
+        "summary": {
+          "VerifiedCount": 7039,
+          "RegocnitionFrequency": 49.00,
+          "RegocnigitonPrecision": 76.57,
+          "CumulativePrecision": 37.52
+        },
+        "supplier": {
+          "VerifiedCount": 7044,
+          "RegocnitionFrequency": 80.22,
+          "RegocnigitonPrecision": 98.00,
+          "CumulativePrecision": 78.62
+        }
+      }
+    },
+    "byDocTypeInvoices": {
+      "Count": 3912,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 3186,
+          "RegocnitionFrequency": 90.74,
+          "RegocnigitonPrecision": 98.75,
+          "CumulativePrecision": 89.61
+        },
+        "currency": {
+          "VerifiedCount": 3901,
+          "RegocnitionFrequency": 91.23,
+          "RegocnigitonPrecision": 98.23,
+          "CumulativePrecision": 89.62
+        },
+        "documentId": {
+          "VerifiedCount": 3800,
+          "RegocnitionFrequency": 87.50,
+          "RegocnigitonPrecision": 57.44,
+          "CumulativePrecision": 50.26
+        },
+        "dueDate": {
+          "VerifiedCount": 2682,
+          "RegocnitionFrequency": 73.79,
+          "RegocnigitonPrecision": 97.02,
+          "CumulativePrecision": 71.59
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 277,
+          "RegocnitionFrequency": 19.49,
+          "RegocnigitonPrecision": 16.67,
+          "CumulativePrecision": 3.25
+        },
+        "issued": {
+          "VerifiedCount": 3884,
+          "RegocnitionFrequency": 82.75,
+          "RegocnigitonPrecision": 90.01,
+          "CumulativePrecision": 74.49
+        },
+        "summary": {
+          "VerifiedCount": 3844,
+          "RegocnitionFrequency": 58.95,
+          "RegocnigitonPrecision": 82.48,
+          "CumulativePrecision": 48.62
+        },
+        "supplier": {
+          "VerifiedCount": 3875,
+          "RegocnitionFrequency": 86.17,
+          "RegocnigitonPrecision": 91.43,
+          "CumulativePrecision": 78.79
+        }
+      }
+    }
+  },
+  "04.2019": {
+    "count": 12184,
+    "allDocuments": {
+      "Count": 12184,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 4298,
+          "RegocnitionFrequency": 92.58,
+          "RegocnigitonPrecision": 99.65,
+          "CumulativePrecision": 92.25
+        },
+        "currency": {
+          "VerifiedCount": 12143,
+          "RegocnitionFrequency": 88.66,
+          "RegocnigitonPrecision": 98.43,
+          "CumulativePrecision": 87.27
+        },
+        "documentId": {
+          "VerifiedCount": 11798,
+          "RegocnitionFrequency": 82.78,
+          "RegocnigitonPrecision": 59.82,
+          "CumulativePrecision": 49.52
+        },
+        "dueDate": {
+          "VerifiedCount": 3817,
+          "RegocnitionFrequency": 77.73,
+          "RegocnigitonPrecision": 97.34,
+          "CumulativePrecision": 75.66
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 1524,
+          "RegocnitionFrequency": 80.58,
+          "RegocnigitonPrecision": 94.54,
+          "CumulativePrecision": 76.18
+        },
+        "issued": {
+          "VerifiedCount": 12063,
+          "RegocnitionFrequency": 81.01,
+          "RegocnigitonPrecision": 90.68,
+          "CumulativePrecision": 73.46
+        },
+        "summary": {
+          "VerifiedCount": 12076,
+          "RegocnitionFrequency": 55.73,
+          "RegocnigitonPrecision": 80.74,
+          "CumulativePrecision": 45.00
+        },
+        "supplier": {
+          "VerifiedCount": 12046,
+          "RegocnitionFrequency": 85.46,
+          "RegocnigitonPrecision": 96.10,
+          "CumulativePrecision": 82.13
+        }
+      }
+    },
+    "byDocTypeReceipts": {
+      "Count": 6954,
+      "Fields": {
+        "currency": {
+          "VerifiedCount": 6925,
+          "RegocnitionFrequency": 85.96,
+          "RegocnigitonPrecision": 98.49,
+          "CumulativePrecision": 84.66
+        },
+        "documentId": {
+          "VerifiedCount": 6677,
+          "RegocnitionFrequency": 78.27,
+          "RegocnigitonPrecision": 64.47,
+          "CumulativePrecision": 50.46
+        },
+        "issued": {
+          "VerifiedCount": 6869,
+          "RegocnitionFrequency": 78.50,
+          "RegocnigitonPrecision": 90.82,
+          "CumulativePrecision": 71.29
+        },
+        "summary": {
+          "VerifiedCount": 6900,
+          "RegocnitionFrequency": 52.93,
+          "RegocnigitonPrecision": 79.49,
+          "CumulativePrecision": 42.07
+        },
+        "supplier": {
+          "VerifiedCount": 6861,
+          "RegocnitionFrequency": 83.68,
+          "RegocnigitonPrecision": 98.41,
+          "CumulativePrecision": 82.35
+        }
+      }
+    },
+    "byDocTypeInvoices": {
+      "Count": 5230,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 4298,
+          "RegocnitionFrequency": 92.58,
+          "RegocnigitonPrecision": 99.65,
+          "CumulativePrecision": 92.25
+        },
+        "currency": {
+          "VerifiedCount": 5218,
+          "RegocnitionFrequency": 92.24,
+          "RegocnigitonPrecision": 98.36,
+          "CumulativePrecision": 90.72
+        },
+        "documentId": {
+          "VerifiedCount": 5121,
+          "RegocnitionFrequency": 88.65,
+          "RegocnigitonPrecision": 54.47,
+          "CumulativePrecision": 48.29
+        },
+        "dueDate": {
+          "VerifiedCount": 3736,
+          "RegocnitionFrequency": 77.65,
+          "RegocnigitonPrecision": 97.38,
+          "CumulativePrecision": 75.62
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 1456,
+          "RegocnitionFrequency": 80.22,
+          "RegocnigitonPrecision": 96.75,
+          "CumulativePrecision": 77.61
+        },
+        "issued": {
+          "VerifiedCount": 5194,
+          "RegocnitionFrequency": 84.33,
+          "RegocnigitonPrecision": 90.50,
+          "CumulativePrecision": 76.32
+        },
+        "summary": {
+          "VerifiedCount": 5176,
+          "RegocnitionFrequency": 59.47,
+          "RegocnigitonPrecision": 82.23,
+          "CumulativePrecision": 48.90
+        },
+        "supplier": {
+          "VerifiedCount": 5185,
+          "RegocnitionFrequency": 87.83,
+          "RegocnigitonPrecision": 93.17,
+          "CumulativePrecision": 81.83
+        }
+      }
+    }
+  },
+  "05.2019": {
+    "count": 13052,
+    "allDocuments": {
+      "Count": 13052,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 4452,
+          "RegocnitionFrequency": 94.47,
+          "RegocnigitonPrecision": 99.50,
+          "CumulativePrecision": 94.00
+        },
+        "currency": {
+          "VerifiedCount": 13013,
+          "RegocnitionFrequency": 89.07,
+          "RegocnigitonPrecision": 98.88,
+          "CumulativePrecision": 88.07
+        },
+        "documentId": {
+          "VerifiedCount": 12655,
+          "RegocnitionFrequency": 82.77,
+          "RegocnigitonPrecision": 61.00,
+          "CumulativePrecision": 50.49
+        },
+        "dueDate": {
+          "VerifiedCount": 3867,
+          "RegocnitionFrequency": 78.51,
+          "RegocnigitonPrecision": 97.96,
+          "CumulativePrecision": 76.91
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 1718,
+          "RegocnitionFrequency": 86.90,
+          "RegocnigitonPrecision": 94.64,
+          "CumulativePrecision": 82.25
+        },
+        "issued": {
+          "VerifiedCount": 12881,
+          "RegocnitionFrequency": 81.89,
+          "RegocnigitonPrecision": 90.33,
+          "CumulativePrecision": 73.97
+        },
+        "summary": {
+          "VerifiedCount": 12938,
+          "RegocnitionFrequency": 56.72,
+          "RegocnigitonPrecision": 82.80,
+          "CumulativePrecision": 46.96
+        },
+        "supplier": {
+          "VerifiedCount": 12862,
+          "RegocnitionFrequency": 85.97,
+          "RegocnigitonPrecision": 97.49,
+          "CumulativePrecision": 83.81
+        }
+      }
+    },
+    "byDocTypeReceipts": {
+      "Count": 7903,
+      "Fields": {
+        "currency": {
+          "VerifiedCount": 7883,
+          "RegocnitionFrequency": 86.33,
+          "RegocnigitonPrecision": 98.84,
+          "CumulativePrecision": 85.32
+        },
+        "documentId": {
+          "VerifiedCount": 7621,
+          "RegocnitionFrequency": 78.13,
+          "RegocnigitonPrecision": 66.43,
+          "CumulativePrecision": 51.90
+        },
+        "issued": {
+          "VerifiedCount": 7785,
+          "RegocnitionFrequency": 79.31,
+          "RegocnigitonPrecision": 90.96,
+          "CumulativePrecision": 72.14
+        },
+        "summary": {
+          "VerifiedCount": 7845,
+          "RegocnitionFrequency": 52.52,
+          "RegocnigitonPrecision": 85.70,
+          "CumulativePrecision": 45.01
+        },
+        "supplier": {
+          "VerifiedCount": 7828,
+          "RegocnitionFrequency": 83.74,
+          "RegocnigitonPrecision": 98.99,
+          "CumulativePrecision": 82.89
+        }
+      }
+    },
+    "byDocTypeInvoices": {
+      "Count": 5149,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 4452,
+          "RegocnitionFrequency": 94.47,
+          "RegocnigitonPrecision": 99.50,
+          "CumulativePrecision": 94.00
+        },
+        "currency": {
+          "VerifiedCount": 5130,
+          "RegocnitionFrequency": 93.29,
+          "RegocnigitonPrecision": 98.93,
+          "CumulativePrecision": 92.30
+        },
+        "documentId": {
+          "VerifiedCount": 5034,
+          "RegocnitionFrequency": 89.79,
+          "RegocnigitonPrecision": 53.85,
+          "CumulativePrecision": 48.35
+        },
+        "dueDate": {
+          "VerifiedCount": 3810,
+          "RegocnitionFrequency": 78.48,
+          "RegocnigitonPrecision": 98.09,
+          "CumulativePrecision": 76.98
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 1647,
+          "RegocnitionFrequency": 86.95,
+          "RegocnigitonPrecision": 96.79,
+          "CumulativePrecision": 84.15
+        },
+        "issued": {
+          "VerifiedCount": 5096,
+          "RegocnitionFrequency": 85.83,
+          "RegocnigitonPrecision": 89.44,
+          "CumulativePrecision": 76.77
+        },
+        "summary": {
+          "VerifiedCount": 5093,
+          "RegocnitionFrequency": 63.18,
+          "RegocnigitonPrecision": 79.09,
+          "CumulativePrecision": 49.97
+        },
+        "supplier": {
+          "VerifiedCount": 5034,
+          "RegocnitionFrequency": 89.43,
+          "RegocnigitonPrecision": 95.31,
+          "CumulativePrecision": 85.24
+        }
+      }
+    }
+  },
+  "06.2019": {
+    "count": 12976,
+    "allDocuments": {
+      "Count": 12976,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 4422,
+          "RegocnitionFrequency": 93.60,
+          "RegocnigitonPrecision": 99.54,
+          "CumulativePrecision": 93.17
+        },
+        "currency": {
+          "VerifiedCount": 12974,
+          "RegocnitionFrequency": 98.47,
+          "RegocnigitonPrecision": 95.20,
+          "CumulativePrecision": 93.74
+        },
+        "documentId": {
+          "VerifiedCount": 12634,
+          "RegocnitionFrequency": 81.38,
+          "RegocnigitonPrecision": 61.37,
+          "CumulativePrecision": 49.94
+        },
+        "dueDate": {
+          "VerifiedCount": 3860,
+          "RegocnitionFrequency": 77.72,
+          "RegocnigitonPrecision": 98.03,
+          "CumulativePrecision": 76.19
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 1715,
+          "RegocnitionFrequency": 80.52,
+          "RegocnigitonPrecision": 95.58,
+          "CumulativePrecision": 76.97
+        },
+        "issued": {
+          "VerifiedCount": 12878,
+          "RegocnitionFrequency": 81.69,
+          "RegocnigitonPrecision": 91.45,
+          "CumulativePrecision": 74.71
+        },
+        "summary": {
+          "VerifiedCount": 12805,
+          "RegocnitionFrequency": 62.18,
+          "RegocnigitonPrecision": 73.30,
+          "CumulativePrecision": 45.58
+        },
+        "supplier": {
+          "VerifiedCount": 12867,
+          "RegocnitionFrequency": 84.04,
+          "RegocnigitonPrecision": 97.40,
+          "CumulativePrecision": 81.86
+        }
+      }
+    },
+    "byDocTypeReceipts": {
+      "Count": 7744,
+      "Fields": {
+        "currency": {
+          "VerifiedCount": 7744,
+          "RegocnitionFrequency": 98.27,
+          "RegocnigitonPrecision": 95.15,
+          "CumulativePrecision": 93.50
+        },
+        "documentId": {
+          "VerifiedCount": 7514,
+          "RegocnitionFrequency": 76.43,
+          "RegocnigitonPrecision": 66.97,
+          "CumulativePrecision": 51.18
+        },
+        "issued": {
+          "VerifiedCount": 7672,
+          "RegocnitionFrequency": 78.90,
+          "RegocnigitonPrecision": 92.53,
+          "CumulativePrecision": 73.01
+        },
+        "summary": {
+          "VerifiedCount": 7637,
+          "RegocnitionFrequency": 59.81,
+          "RegocnigitonPrecision": 71.54,
+          "CumulativePrecision": 42.79
+        },
+        "supplier": {
+          "VerifiedCount": 7671,
+          "RegocnitionFrequency": 80.50,
+          "RegocnigitonPrecision": 98.77,
+          "CumulativePrecision": 79.51
+        }
+      }
+    },
+    "byDocTypeInvoices": {
+      "Count": 5232,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 4422,
+          "RegocnitionFrequency": 93.60,
+          "RegocnigitonPrecision": 99.54,
+          "CumulativePrecision": 93.17
+        },
+        "currency": {
+          "VerifiedCount": 5230,
+          "RegocnitionFrequency": 98.76,
+          "RegocnigitonPrecision": 95.28,
+          "CumulativePrecision": 94.09
+        },
+        "documentId": {
+          "VerifiedCount": 5120,
+          "RegocnitionFrequency": 88.63,
+          "RegocnigitonPrecision": 54.28,
+          "CumulativePrecision": 48.11
+        },
+        "dueDate": {
+          "VerifiedCount": 3817,
+          "RegocnitionFrequency": 77.71,
+          "RegocnigitonPrecision": 98.11,
+          "CumulativePrecision": 76.24
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 1682,
+          "RegocnitionFrequency": 80.56,
+          "RegocnigitonPrecision": 96.61,
+          "CumulativePrecision": 77.82
+        },
+        "issued": {
+          "VerifiedCount": 5206,
+          "RegocnitionFrequency": 85.80,
+          "RegocnigitonPrecision": 89.99,
+          "CumulativePrecision": 77.22
+        },
+        "summary": {
+          "VerifiedCount": 5168,
+          "RegocnitionFrequency": 65.67,
+          "RegocnigitonPrecision": 75.66,
+          "CumulativePrecision": 49.69
+        },
+        "supplier": {
+          "VerifiedCount": 5196,
+          "RegocnitionFrequency": 89.28,
+          "RegocnigitonPrecision": 95.58,
+          "CumulativePrecision": 85.33
+        }
+      }
+    }
+  },
+  "07.2019": {
+    "count": 13160,
+    "allDocuments": {
+      "Count": 13160,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 4440,
+          "RegocnitionFrequency": 94.71,
+          "RegocnigitonPrecision": 99.41,
+          "CumulativePrecision": 94.14
+        },
+        "currency": {
+          "VerifiedCount": 13160,
+          "RegocnitionFrequency": 100.0,
+          "RegocnigitonPrecision": 94.61,
+          "CumulativePrecision": 94.61
+        },
+        "documentId": {
+          "VerifiedCount": 12798,
+          "RegocnitionFrequency": 82.51,
+          "RegocnigitonPrecision": 63.88,
+          "CumulativePrecision": 52.70
+        },
+        "dueDate": {
+          "VerifiedCount": 3897,
+          "RegocnitionFrequency": 77.06,
+          "RegocnigitonPrecision": 98.27,
+          "CumulativePrecision": 75.72
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 1784,
+          "RegocnitionFrequency": 83.18,
+          "RegocnigitonPrecision": 95.49,
+          "CumulativePrecision": 79.43
+        },
+        "issued": {
+          "VerifiedCount": 13046,
+          "RegocnitionFrequency": 83.04,
+          "RegocnigitonPrecision": 90.91,
+          "CumulativePrecision": 75.49
+        },
+        "summary": {
+          "VerifiedCount": 13073,
+          "RegocnitionFrequency": 61.62,
+          "RegocnigitonPrecision": 81.97,
+          "CumulativePrecision": 50.51
+        },
+        "supplier": {
+          "VerifiedCount": 13067,
+          "RegocnitionFrequency": 81.40,
+          "RegocnigitonPrecision": 98.18,
+          "CumulativePrecision": 79.91
+        }
+      }
+    },
+    "byDocTypeReceipts": {
+      "Count": 7932,
+      "Fields": {
+        "currency": {
+          "VerifiedCount": 7932,
+          "RegocnitionFrequency": 100.0,
+          "RegocnigitonPrecision": 95.12,
+          "CumulativePrecision": 95.12
+        },
+        "documentId": {
+          "VerifiedCount": 7685,
+          "RegocnitionFrequency": 78.40,
+          "RegocnigitonPrecision": 67.00,
+          "CumulativePrecision": 52.53
+        },
+        "issued": {
+          "VerifiedCount": 7846,
+          "RegocnitionFrequency": 81.65,
+          "RegocnigitonPrecision": 91.99,
+          "CumulativePrecision": 75.11
+        },
+        "summary": {
+          "VerifiedCount": 7904,
+          "RegocnitionFrequency": 57.88,
+          "RegocnigitonPrecision": 83.76,
+          "CumulativePrecision": 48.48
+        },
+        "supplier": {
+          "VerifiedCount": 7876,
+          "RegocnitionFrequency": 79.23,
+          "RegocnigitonPrecision": 99.09,
+          "CumulativePrecision": 78.50
+        }
+      }
+    },
+    "byDocTypeInvoices": {
+      "Count": 5228,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 4440,
+          "RegocnitionFrequency": 94.71,
+          "RegocnigitonPrecision": 99.41,
+          "CumulativePrecision": 94.14
+        },
+        "currency": {
+          "VerifiedCount": 5228,
+          "RegocnitionFrequency": 100.0,
+          "RegocnigitonPrecision": 93.84,
+          "CumulativePrecision": 93.84
+        },
+        "documentId": {
+          "VerifiedCount": 5113,
+          "RegocnitionFrequency": 88.68,
+          "RegocnigitonPrecision": 59.73,
+          "CumulativePrecision": 52.96
+        },
+        "dueDate": {
+          "VerifiedCount": 3850,
+          "RegocnitionFrequency": 77.14,
+          "RegocnigitonPrecision": 98.35,
+          "CumulativePrecision": 75.87
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 1736,
+          "RegocnitionFrequency": 83.29,
+          "RegocnigitonPrecision": 97.37,
+          "CumulativePrecision": 81.11
+        },
+        "issued": {
+          "VerifiedCount": 5200,
+          "RegocnitionFrequency": 85.13,
+          "RegocnigitonPrecision": 89.34,
+          "CumulativePrecision": 76.06
+        },
+        "summary": {
+          "VerifiedCount": 5169,
+          "RegocnitionFrequency": 67.32,
+          "RegocnigitonPrecision": 79.63,
+          "CumulativePrecision": 53.61
+        },
+        "supplier": {
+          "VerifiedCount": 5191,
+          "RegocnitionFrequency": 84.69,
+          "RegocnigitonPrecision": 96.88,
+          "CumulativePrecision": 82.05
+        }
+      }
+    }
+  },
+  "08.2019": {
+    "count": 13731,
+    "allDocuments": {
+      "Count": 13731,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 4401,
+          "RegocnitionFrequency": 95.21,
+          "RegocnigitonPrecision": 99.50,
+          "CumulativePrecision": 94.73
+        },
+        "currency": {
+          "VerifiedCount": 13731,
+          "RegocnitionFrequency": 100.0,
+          "RegocnigitonPrecision": 94.45,
+          "CumulativePrecision": 94.45
+        },
+        "documentId": {
+          "VerifiedCount": 13395,
+          "RegocnitionFrequency": 83.17,
+          "RegocnigitonPrecision": 63.73,
+          "CumulativePrecision": 53.00
+        },
+        "dueDate": {
+          "VerifiedCount": 3867,
+          "RegocnitionFrequency": 77.40,
+          "RegocnigitonPrecision": 98.40,
+          "CumulativePrecision": 76.16
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 1800,
+          "RegocnitionFrequency": 82.39,
+          "RegocnigitonPrecision": 93.93,
+          "CumulativePrecision": 77.39
+        },
+        "issued": {
+          "VerifiedCount": 13630,
+          "RegocnitionFrequency": 83.10,
+          "RegocnigitonPrecision": 91.21,
+          "CumulativePrecision": 75.80
+        },
+        "summary": {
+          "VerifiedCount": 13649,
+          "RegocnitionFrequency": 63.35,
+          "RegocnigitonPrecision": 84.15,
+          "CumulativePrecision": 53.31
+        },
+        "supplier": {
+          "VerifiedCount": 13625,
+          "RegocnitionFrequency": 83.31,
+          "RegocnigitonPrecision": 97.33,
+          "CumulativePrecision": 81.09
+        }
+      }
+    },
+    "byDocTypeReceipts": {
+      "Count": 8388,
+      "Fields": {
+        "currency": {
+          "VerifiedCount": 8388,
+          "RegocnitionFrequency": 100.0,
+          "RegocnigitonPrecision": 94.42,
+          "CumulativePrecision": 94.42
+        },
+        "documentId": {
+          "VerifiedCount": 8152,
+          "RegocnitionFrequency": 79.23,
+          "RegocnigitonPrecision": 66.68,
+          "CumulativePrecision": 52.83
+        },
+        "issued": {
+          "VerifiedCount": 8303,
+          "RegocnitionFrequency": 82.26,
+          "RegocnigitonPrecision": 92.24,
+          "CumulativePrecision": 75.88
+        },
+        "summary": {
+          "VerifiedCount": 8358,
+          "RegocnitionFrequency": 60.83,
+          "RegocnigitonPrecision": 84.23,
+          "CumulativePrecision": 51.23
+        },
+        "supplier": {
+          "VerifiedCount": 8306,
+          "RegocnitionFrequency": 81.57,
+          "RegocnigitonPrecision": 99.28,
+          "CumulativePrecision": 80.98
+        }
+      }
+    },
+    "byDocTypeInvoices": {
+      "Count": 5343,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 4401,
+          "RegocnitionFrequency": 95.21,
+          "RegocnigitonPrecision": 99.50,
+          "CumulativePrecision": 94.73
+        },
+        "currency": {
+          "VerifiedCount": 5343,
+          "RegocnitionFrequency": 100.0,
+          "RegocnigitonPrecision": 94.50,
+          "CumulativePrecision": 94.50
+        },
+        "documentId": {
+          "VerifiedCount": 5243,
+          "RegocnitionFrequency": 89.28,
+          "RegocnigitonPrecision": 59.65,
+          "CumulativePrecision": 53.25
+        },
+        "dueDate": {
+          "VerifiedCount": 3808,
+          "RegocnitionFrequency": 77.34,
+          "RegocnigitonPrecision": 98.37,
+          "CumulativePrecision": 76.08
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 1734,
+          "RegocnitionFrequency": 82.24,
+          "RegocnigitonPrecision": 96.35,
+          "CumulativePrecision": 79.24
+        },
+        "issued": {
+          "VerifiedCount": 5327,
+          "RegocnitionFrequency": 84.42,
+          "RegocnigitonPrecision": 89.64,
+          "CumulativePrecision": 75.67
+        },
+        "summary": {
+          "VerifiedCount": 5291,
+          "RegocnitionFrequency": 67.32,
+          "RegocnigitonPrecision": 84.05,
+          "CumulativePrecision": 56.59
+        },
+        "supplier": {
+          "VerifiedCount": 5319,
+          "RegocnitionFrequency": 86.03,
+          "RegocnigitonPrecision": 94.45,
+          "CumulativePrecision": 81.26
+        }
+      }
+    }
+  },
+  "09.2019": {
+    "count": 13864,
+    "allDocuments": {
+      "Count": 13864,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 4550,
+          "RegocnitionFrequency": 96.84,
+          "RegocnigitonPrecision": 99.57,
+          "CumulativePrecision": 96.42
+        },
+        "currency": {
+          "VerifiedCount": 13862,
+          "RegocnitionFrequency": 100.0,
+          "RegocnigitonPrecision": 94.39,
+          "CumulativePrecision": 94.39
+        },
+        "documentId": {
+          "VerifiedCount": 13512,
+          "RegocnitionFrequency": 83.19,
+          "RegocnigitonPrecision": 65.77,
+          "CumulativePrecision": 54.71
+        },
+        "dueDate": {
+          "VerifiedCount": 3939,
+          "RegocnitionFrequency": 78.83,
+          "RegocnigitonPrecision": 98.90,
+          "CumulativePrecision": 77.96
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 1686,
+          "RegocnitionFrequency": 85.65,
+          "RegocnigitonPrecision": 98.20,
+          "CumulativePrecision": 84.10
+        },
+        "issued": {
+          "VerifiedCount": 13732,
+          "RegocnitionFrequency": 84.93,
+          "RegocnigitonPrecision": 92.21,
+          "CumulativePrecision": 78.31
+        },
+        "summary": {
+          "VerifiedCount": 13755,
+          "RegocnitionFrequency": 65.05,
+          "RegocnigitonPrecision": 84.87,
+          "CumulativePrecision": 55.21
+        },
+        "supplier": {
+          "VerifiedCount": 13758,
+          "RegocnitionFrequency": 85.44,
+          "RegocnigitonPrecision": 97.64,
+          "CumulativePrecision": 83.42
+        }
+      }
+    },
+    "byDocTypeReceipts": {
+      "Count": 8398,
+      "Fields": {
+        "currency": {
+          "VerifiedCount": 8396,
+          "RegocnitionFrequency": 100.0,
+          "RegocnigitonPrecision": 94.51,
+          "CumulativePrecision": 94.51
+        },
+        "documentId": {
+          "VerifiedCount": 8144,
+          "RegocnitionFrequency": 79.10,
+          "RegocnigitonPrecision": 69.20,
+          "CumulativePrecision": 54.74
+        },
+        "issued": {
+          "VerifiedCount": 8303,
+          "RegocnitionFrequency": 83.89,
+          "RegocnigitonPrecision": 93.15,
+          "CumulativePrecision": 78.14
+        },
+        "summary": {
+          "VerifiedCount": 8354,
+          "RegocnitionFrequency": 63.30,
+          "RegocnigitonPrecision": 84.68,
+          "CumulativePrecision": 53.60
+        },
+        "supplier": {
+          "VerifiedCount": 8331,
+          "RegocnitionFrequency": 82.98,
+          "RegocnigitonPrecision": 98.87,
+          "CumulativePrecision": 82.04
+        }
+      }
+    },
+    "byDocTypeInvoices": {
+      "Count": 5466,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 4550,
+          "RegocnitionFrequency": 96.84,
+          "RegocnigitonPrecision": 99.57,
+          "CumulativePrecision": 96.42
+        },
+        "currency": {
+          "VerifiedCount": 5466,
+          "RegocnitionFrequency": 100.0,
+          "RegocnigitonPrecision": 94.22,
+          "CumulativePrecision": 94.22
+        },
+        "documentId": {
+          "VerifiedCount": 5368,
+          "RegocnitionFrequency": 89.38,
+          "RegocnigitonPrecision": 61.15,
+          "CumulativePrecision": 54.66
+        },
+        "dueDate": {
+          "VerifiedCount": 3878,
+          "RegocnitionFrequency": 78.78,
+          "RegocnigitonPrecision": 98.89,
+          "CumulativePrecision": 77.90
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 1656,
+          "RegocnitionFrequency": 85.75,
+          "RegocnigitonPrecision": 98.24,
+          "CumulativePrecision": 84.24
+        },
+        "issued": {
+          "VerifiedCount": 5429,
+          "RegocnitionFrequency": 86.54,
+          "RegocnigitonPrecision": 90.80,
+          "CumulativePrecision": 78.58
+        },
+        "summary": {
+          "VerifiedCount": 5401,
+          "RegocnitionFrequency": 67.77,
+          "RegocnigitonPrecision": 85.14,
+          "CumulativePrecision": 57.69
+        },
+        "supplier": {
+          "VerifiedCount": 5427,
+          "RegocnitionFrequency": 89.22,
+          "RegocnigitonPrecision": 95.87,
+          "CumulativePrecision": 85.54
+        }
+      }
+    }
+  },
+  "10.2019": {
+    "count": 14942,
+    "allDocuments": {
+      "Count": 14942,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 5470,
+          "RegocnitionFrequency": 96.82,
+          "RegocnigitonPrecision": 99.58,
+          "CumulativePrecision": 96.42
+        },
+        "currency": {
+          "VerifiedCount": 14942,
+          "RegocnitionFrequency": 100.0,
+          "RegocnigitonPrecision": 94.03,
+          "CumulativePrecision": 94.03
+        },
+        "documentId": {
+          "VerifiedCount": 14510,
+          "RegocnitionFrequency": 83.24,
+          "RegocnigitonPrecision": 66.49,
+          "CumulativePrecision": 55.35
+        },
+        "dueDate": {
+          "VerifiedCount": 4776,
+          "RegocnitionFrequency": 81.91,
+          "RegocnigitonPrecision": 98.88,
+          "CumulativePrecision": 80.99
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 2070,
+          "RegocnitionFrequency": 90.63,
+          "RegocnigitonPrecision": 98.88,
+          "CumulativePrecision": 89.61
+        },
+        "issued": {
+          "VerifiedCount": 14806,
+          "RegocnitionFrequency": 86.09,
+          "RegocnigitonPrecision": 93.24,
+          "CumulativePrecision": 80.27
+        },
+        "summary": {
+          "VerifiedCount": 14831,
+          "RegocnitionFrequency": 67.62,
+          "RegocnigitonPrecision": 83.85,
+          "CumulativePrecision": 56.70
+        },
+        "supplier": {
+          "VerifiedCount": 14741,
+          "RegocnitionFrequency": 82.84,
+          "RegocnigitonPrecision": 97.29,
+          "CumulativePrecision": 80.60
+        }
+      }
+    },
+    "byDocTypeReceipts": {
+      "Count": 8361,
+      "Fields": {
+        "currency": {
+          "VerifiedCount": 8361,
+          "RegocnitionFrequency": 100.0,
+          "RegocnigitonPrecision": 93.13,
+          "CumulativePrecision": 93.13
+        },
+        "documentId": {
+          "VerifiedCount": 8043,
+          "RegocnitionFrequency": 77.73,
+          "RegocnigitonPrecision": 68.97,
+          "CumulativePrecision": 53.61
+        },
+        "issued": {
+          "VerifiedCount": 8255,
+          "RegocnitionFrequency": 82.31,
+          "RegocnigitonPrecision": 94.05,
+          "CumulativePrecision": 77.42
+        },
+        "summary": {
+          "VerifiedCount": 8307,
+          "RegocnitionFrequency": 65.54,
+          "RegocnigitonPrecision": 83.61,
+          "CumulativePrecision": 54.80
+        },
+        "supplier": {
+          "VerifiedCount": 8249,
+          "RegocnitionFrequency": 78.42,
+          "RegocnigitonPrecision": 98.95,
+          "CumulativePrecision": 77.60
+        }
+      }
+    },
+    "byDocTypeInvoices": {
+      "Count": 6581,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 5470,
+          "RegocnitionFrequency": 96.82,
+          "RegocnigitonPrecision": 99.58,
+          "CumulativePrecision": 96.42
+        },
+        "currency": {
+          "VerifiedCount": 6581,
+          "RegocnitionFrequency": 100.0,
+          "RegocnigitonPrecision": 95.17,
+          "CumulativePrecision": 95.17
+        },
+        "documentId": {
+          "VerifiedCount": 6467,
+          "RegocnitionFrequency": 90.09,
+          "RegocnigitonPrecision": 63.83,
+          "CumulativePrecision": 57.51
+        },
+        "dueDate": {
+          "VerifiedCount": 4708,
+          "RegocnitionFrequency": 81.88,
+          "RegocnigitonPrecision": 98.99,
+          "CumulativePrecision": 81.05
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 2034,
+          "RegocnitionFrequency": 90.71,
+          "RegocnigitonPrecision": 98.97,
+          "CumulativePrecision": 89.77
+        },
+        "issued": {
+          "VerifiedCount": 6551,
+          "RegocnitionFrequency": 90.84,
+          "RegocnigitonPrecision": 92.32,
+          "CumulativePrecision": 83.87
+        },
+        "summary": {
+          "VerifiedCount": 6524,
+          "RegocnitionFrequency": 70.28,
+          "RegocnigitonPrecision": 84.12,
+          "CumulativePrecision": 59.12
+        },
+        "supplier": {
+          "VerifiedCount": 6492,
+          "RegocnitionFrequency": 88.46,
+          "RegocnigitonPrecision": 95.42,
+          "CumulativePrecision": 84.41
+        }
+      }
+    }
+  },
+  "11.2019": {
+    "count": 13717,
+    "allDocuments": {
+      "Count": 13717,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 4872,
+          "RegocnitionFrequency": 96.80,
+          "RegocnigitonPrecision": 99.34,
+          "CumulativePrecision": 96.16
+        },
+        "currency": {
+          "VerifiedCount": 13717,
+          "RegocnitionFrequency": 100.0,
+          "RegocnigitonPrecision": 93.73,
+          "CumulativePrecision": 93.73
+        },
+        "documentId": {
+          "VerifiedCount": 13237,
+          "RegocnitionFrequency": 85.86,
+          "RegocnigitonPrecision": 66.24,
+          "CumulativePrecision": 56.87
+        },
+        "dueDate": {
+          "VerifiedCount": 4187,
+          "RegocnitionFrequency": 82.64,
+          "RegocnigitonPrecision": 99.36,
+          "CumulativePrecision": 82.11
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 1891,
+          "RegocnitionFrequency": 88.79,
+          "RegocnigitonPrecision": 99.11,
+          "CumulativePrecision": 88.00
+        },
+        "issued": {
+          "VerifiedCount": 13582,
+          "RegocnitionFrequency": 87.79,
+          "RegocnigitonPrecision": 93.89,
+          "CumulativePrecision": 82.42
+        },
+        "summary": {
+          "VerifiedCount": 13617,
+          "RegocnitionFrequency": 69.41,
+          "RegocnigitonPrecision": 83.98,
+          "CumulativePrecision": 58.29
+        },
+        "supplier": {
+          "VerifiedCount": 13570,
+          "RegocnitionFrequency": 85.06,
+          "RegocnigitonPrecision": 97.43,
+          "CumulativePrecision": 82.87
+        }
+      }
+    },
+    "byDocTypeReceipts": {
+      "Count": 7770,
+      "Fields": {
+        "currency": {
+          "VerifiedCount": 7770,
+          "RegocnitionFrequency": 100.0,
+          "RegocnigitonPrecision": 93.37,
+          "CumulativePrecision": 93.37
+        },
+        "documentId": {
+          "VerifiedCount": 7417,
+          "RegocnitionFrequency": 80.28,
+          "RegocnigitonPrecision": 67.85,
+          "CumulativePrecision": 54.47
+        },
+        "issued": {
+          "VerifiedCount": 7666,
+          "RegocnitionFrequency": 85.06,
+          "RegocnigitonPrecision": 95.49,
+          "CumulativePrecision": 81.23
+        },
+        "summary": {
+          "VerifiedCount": 7718,
+          "RegocnitionFrequency": 66.95,
+          "RegocnigitonPrecision": 83.78,
+          "CumulativePrecision": 56.09
+        },
+        "supplier": {
+          "VerifiedCount": 7678,
+          "RegocnitionFrequency": 81.79,
+          "RegocnigitonPrecision": 98.92,
+          "CumulativePrecision": 80.91
+        }
+      }
+    },
+    "byDocTypeInvoices": {
+      "Count": 5947,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 4872,
+          "RegocnitionFrequency": 96.80,
+          "RegocnigitonPrecision": 99.34,
+          "CumulativePrecision": 96.16
+        },
+        "currency": {
+          "VerifiedCount": 5947,
+          "RegocnitionFrequency": 100.0,
+          "RegocnigitonPrecision": 94.20,
+          "CumulativePrecision": 94.20
+        },
+        "documentId": {
+          "VerifiedCount": 5820,
+          "RegocnitionFrequency": 92.97,
+          "RegocnigitonPrecision": 64.46,
+          "CumulativePrecision": 59.93
+        },
+        "dueDate": {
+          "VerifiedCount": 4122,
+          "RegocnitionFrequency": 82.82,
+          "RegocnigitonPrecision": 99.38,
+          "CumulativePrecision": 82.31
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 1863,
+          "RegocnitionFrequency": 88.84,
+          "RegocnigitonPrecision": 99.09,
+          "CumulativePrecision": 88.03
+        },
+        "issued": {
+          "VerifiedCount": 5916,
+          "RegocnitionFrequency": 91.31,
+          "RegocnigitonPrecision": 91.95,
+          "CumulativePrecision": 83.96
+        },
+        "summary": {
+          "VerifiedCount": 5899,
+          "RegocnitionFrequency": 72.62,
+          "RegocnigitonPrecision": 84.22,
+          "CumulativePrecision": 61.16
+        },
+        "supplier": {
+          "VerifiedCount": 5892,
+          "RegocnitionFrequency": 89.32,
+          "RegocnigitonPrecision": 95.65,
+          "CumulativePrecision": 85.44
+        }
+      }
+    }
+  },
+  "12.2019": {
+    "count": 13879,
+    "allDocuments": {
+      "Count": 13879,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 4692,
+          "RegocnitionFrequency": 97.36,
+          "RegocnigitonPrecision": 99.65,
+          "CumulativePrecision": 97.02
+        },
+        "currency": {
+          "VerifiedCount": 13873,
+          "RegocnitionFrequency": 99.99,
+          "RegocnigitonPrecision": 96.22,
+          "CumulativePrecision": 96.21
+        },
+        "documentId": {
+          "VerifiedCount": 13450,
+          "RegocnitionFrequency": 87.51,
+          "RegocnigitonPrecision": 68.13,
+          "CumulativePrecision": 59.62
+        },
+        "dueDate": {
+          "VerifiedCount": 4028,
+          "RegocnitionFrequency": 83.42,
+          "RegocnigitonPrecision": 99.32,
+          "CumulativePrecision": 82.85
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 1784,
+          "RegocnitionFrequency": 91.37,
+          "RegocnigitonPrecision": 97.73,
+          "CumulativePrecision": 89.29
+        },
+        "issued": {
+          "VerifiedCount": 13751,
+          "RegocnitionFrequency": 92.24,
+          "RegocnigitonPrecision": 93.97,
+          "CumulativePrecision": 86.68
+        },
+        "summary": {
+          "VerifiedCount": 13794,
+          "RegocnitionFrequency": 70.15,
+          "RegocnigitonPrecision": 83.74,
+          "CumulativePrecision": 58.75
+        },
+        "supplier": {
+          "VerifiedCount": 13712,
+          "RegocnitionFrequency": 84.90,
+          "RegocnigitonPrecision": 97.01,
+          "CumulativePrecision": 82.36
+        }
+      }
+    },
+    "byDocTypeReceipts": {
+      "Count": 8186,
+      "Fields": {
+        "currency": {
+          "VerifiedCount": 8180,
+          "RegocnitionFrequency": 99.99,
+          "RegocnigitonPrecision": 96.78,
+          "CumulativePrecision": 96.77
+        },
+        "documentId": {
+          "VerifiedCount": 7863,
+          "RegocnitionFrequency": 82.88,
+          "RegocnigitonPrecision": 69.94,
+          "CumulativePrecision": 57.97
+        },
+        "issued": {
+          "VerifiedCount": 8084,
+          "RegocnitionFrequency": 90.98,
+          "RegocnigitonPrecision": 95.13,
+          "CumulativePrecision": 86.55
+        },
+        "summary": {
+          "VerifiedCount": 8146,
+          "RegocnitionFrequency": 68.39,
+          "RegocnigitonPrecision": 83.72,
+          "CumulativePrecision": 57.26
+        },
+        "supplier": {
+          "VerifiedCount": 8077,
+          "RegocnitionFrequency": 82.04,
+          "RegocnigitonPrecision": 98.73,
+          "CumulativePrecision": 81.00
+        }
+      }
+    },
+    "byDocTypeInvoices": {
+      "Count": 5693,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 4692,
+          "RegocnitionFrequency": 97.36,
+          "RegocnigitonPrecision": 99.65,
+          "CumulativePrecision": 97.02
+        },
+        "currency": {
+          "VerifiedCount": 5693,
+          "RegocnitionFrequency": 100.0,
+          "RegocnigitonPrecision": 95.40,
+          "CumulativePrecision": 95.40
+        },
+        "documentId": {
+          "VerifiedCount": 5587,
+          "RegocnitionFrequency": 94.02,
+          "RegocnigitonPrecision": 65.89,
+          "CumulativePrecision": 61.95
+        },
+        "dueDate": {
+          "VerifiedCount": 3978,
+          "RegocnitionFrequency": 83.51,
+          "RegocnigitonPrecision": 99.34,
+          "CumulativePrecision": 82.96
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 1746,
+          "RegocnitionFrequency": 91.52,
+          "RegocnigitonPrecision": 97.81,
+          "CumulativePrecision": 89.52
+        },
+        "issued": {
+          "VerifiedCount": 5667,
+          "RegocnitionFrequency": 94.04,
+          "RegocnigitonPrecision": 92.36,
+          "CumulativePrecision": 86.85
+        },
+        "summary": {
+          "VerifiedCount": 5648,
+          "RegocnitionFrequency": 72.70,
+          "RegocnigitonPrecision": 83.78,
+          "CumulativePrecision": 60.91
+        },
+        "supplier": {
+          "VerifiedCount": 5635,
+          "RegocnitionFrequency": 89.00,
+          "RegocnigitonPrecision": 94.74,
+          "CumulativePrecision": 84.31
+        }
+      }
+    }
+  },
+  "01.2020": {
+    "count": 14736,
+    "allDocuments": {
+      "Count": 14736,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 5520,
+          "RegocnitionFrequency": 96.43,
+          "RegocnigitonPrecision": 99.17,
+          "CumulativePrecision": 95.63
+        },
+        "currency": {
+          "VerifiedCount": 14732,
+          "RegocnitionFrequency": 99.93,
+          "RegocnigitonPrecision": 95.39,
+          "CumulativePrecision": 95.33
+        },
+        "documentId": {
+          "VerifiedCount": 14288,
+          "RegocnitionFrequency": 87.83,
+          "RegocnigitonPrecision": 68.59,
+          "CumulativePrecision": 60.24
+        },
+        "dueDate": {
+          "VerifiedCount": 4876,
+          "RegocnitionFrequency": 79.53,
+          "RegocnigitonPrecision": 99.43,
+          "CumulativePrecision": 79.08
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 2238,
+          "RegocnitionFrequency": 92.98,
+          "RegocnigitonPrecision": 97.36,
+          "CumulativePrecision": 90.53
+        },
+        "issued": {
+          "VerifiedCount": 14587,
+          "RegocnitionFrequency": 91.29,
+          "RegocnigitonPrecision": 93.26,
+          "CumulativePrecision": 85.13
+        },
+        "summary": {
+          "VerifiedCount": 14612,
+          "RegocnitionFrequency": 69.74,
+          "RegocnigitonPrecision": 83.01,
+          "CumulativePrecision": 57.89
+        },
+        "supplier": {
+          "VerifiedCount": 14540,
+          "RegocnitionFrequency": 84.88,
+          "RegocnigitonPrecision": 97.05,
+          "CumulativePrecision": 82.37
+        }
+      }
+    },
+    "byDocTypeReceipts": {
+      "Count": 8058,
+      "Fields": {
+        "currency": {
+          "VerifiedCount": 8054,
+          "RegocnitionFrequency": 99.89,
+          "RegocnigitonPrecision": 95.62,
+          "CumulativePrecision": 95.52
+        },
+        "documentId": {
+          "VerifiedCount": 7728,
+          "RegocnitionFrequency": 82.70,
+          "RegocnigitonPrecision": 70.90,
+          "CumulativePrecision": 58.63
+        },
+        "issued": {
+          "VerifiedCount": 7937,
+          "RegocnitionFrequency": 89.64,
+          "RegocnigitonPrecision": 95.74,
+          "CumulativePrecision": 85.83
+        },
+        "summary": {
+          "VerifiedCount": 7997,
+          "RegocnitionFrequency": 67.30,
+          "RegocnigitonPrecision": 82.57,
+          "CumulativePrecision": 55.57
+        },
+        "supplier": {
+          "VerifiedCount": 7919,
+          "RegocnitionFrequency": 81.13,
+          "RegocnigitonPrecision": 98.41,
+          "CumulativePrecision": 79.85
+        }
+      }
+    },
+    "byDocTypeInvoices": {
+      "Count": 6678,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 5520,
+          "RegocnitionFrequency": 96.43,
+          "RegocnigitonPrecision": 99.17,
+          "CumulativePrecision": 95.63
+        },
+        "currency": {
+          "VerifiedCount": 6678,
+          "RegocnitionFrequency": 99.99,
+          "RegocnigitonPrecision": 95.12,
+          "CumulativePrecision": 95.10
+        },
+        "documentId": {
+          "VerifiedCount": 6560,
+          "RegocnitionFrequency": 93.87,
+          "RegocnigitonPrecision": 66.19,
+          "CumulativePrecision": 62.13
+        },
+        "dueDate": {
+          "VerifiedCount": 4804,
+          "RegocnitionFrequency": 79.66,
+          "RegocnigitonPrecision": 99.45,
+          "CumulativePrecision": 79.23
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 2191,
+          "RegocnitionFrequency": 93.06,
+          "RegocnigitonPrecision": 97.35,
+          "CumulativePrecision": 90.60
+        },
+        "issued": {
+          "VerifiedCount": 6650,
+          "RegocnitionFrequency": 93.25,
+          "RegocnigitonPrecision": 90.40,
+          "CumulativePrecision": 84.30
+        },
+        "summary": {
+          "VerifiedCount": 6615,
+          "RegocnitionFrequency": 72.68,
+          "RegocnigitonPrecision": 83.51,
+          "CumulativePrecision": 60.70
+        },
+        "supplier": {
+          "VerifiedCount": 6621,
+          "RegocnitionFrequency": 89.35,
+          "RegocnigitonPrecision": 95.57,
+          "CumulativePrecision": 85.39
+        }
+      }
+    }
+  },
+  "02.2020": {
+    "count": 14807,
+    "allDocuments": {
+      "Count": 14807,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 5387,
+          "RegocnitionFrequency": 94.32,
+          "RegocnigitonPrecision": 99.27,
+          "CumulativePrecision": 93.63
+        },
+        "currency": {
+          "VerifiedCount": 14806,
+          "RegocnitionFrequency": 99.94,
+          "RegocnigitonPrecision": 93.71,
+          "CumulativePrecision": 93.65
+        },
+        "documentId": {
+          "VerifiedCount": 14295,
+          "RegocnitionFrequency": 85.95,
+          "RegocnigitonPrecision": 66.29,
+          "CumulativePrecision": 56.98
+        },
+        "dueDate": {
+          "VerifiedCount": 4616,
+          "RegocnitionFrequency": 72.64,
+          "RegocnigitonPrecision": 98.63,
+          "CumulativePrecision": 71.64
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 2392,
+          "RegocnitionFrequency": 89.72,
+          "RegocnigitonPrecision": 95.85,
+          "CumulativePrecision": 85.99
+        },
+        "issued": {
+          "VerifiedCount": 14626,
+          "RegocnitionFrequency": 88.58,
+          "RegocnigitonPrecision": 94.67,
+          "CumulativePrecision": 83.86
+        },
+        "summary": {
+          "VerifiedCount": 14678,
+          "RegocnitionFrequency": 67.50,
+          "RegocnigitonPrecision": 82.74,
+          "CumulativePrecision": 55.85
+        },
+        "supplier": {
+          "VerifiedCount": 14625,
+          "RegocnitionFrequency": 82.40,
+          "RegocnigitonPrecision": 96.37,
+          "CumulativePrecision": 79.41
+        }
+      }
+    },
+    "byDocTypeReceipts": {
+      "Count": 8167,
+      "Fields": {
+        "currency": {
+          "VerifiedCount": 8166,
+          "RegocnitionFrequency": 99.90,
+          "RegocnigitonPrecision": 94.47,
+          "CumulativePrecision": 94.38
+        },
+        "documentId": {
+          "VerifiedCount": 7794,
+          "RegocnitionFrequency": 80.87,
+          "RegocnigitonPrecision": 71.08,
+          "CumulativePrecision": 57.48
+        },
+        "issued": {
+          "VerifiedCount": 8022,
+          "RegocnitionFrequency": 87.53,
+          "RegocnigitonPrecision": 97.35,
+          "CumulativePrecision": 85.22
+        },
+        "summary": {
+          "VerifiedCount": 8106,
+          "RegocnitionFrequency": 66.85,
+          "RegocnigitonPrecision": 82.47,
+          "CumulativePrecision": 55.13
+        },
+        "supplier": {
+          "VerifiedCount": 8038,
+          "RegocnitionFrequency": 79.35,
+          "RegocnigitonPrecision": 97.96,
+          "CumulativePrecision": 77.73
+        }
+      }
+    },
+    "byDocTypeInvoices": {
+      "Count": 6640,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 5387,
+          "RegocnitionFrequency": 94.32,
+          "RegocnigitonPrecision": 99.27,
+          "CumulativePrecision": 93.63
+        },
+        "currency": {
+          "VerifiedCount": 6640,
+          "RegocnitionFrequency": 99.98,
+          "RegocnigitonPrecision": 92.77,
+          "CumulativePrecision": 92.76
+        },
+        "documentId": {
+          "VerifiedCount": 6501,
+          "RegocnitionFrequency": 92.05,
+          "RegocnigitonPrecision": 61.25,
+          "CumulativePrecision": 56.38
+        },
+        "dueDate": {
+          "VerifiedCount": 4552,
+          "RegocnitionFrequency": 72.63,
+          "RegocnigitonPrecision": 98.67,
+          "CumulativePrecision": 71.66
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 2339,
+          "RegocnitionFrequency": 90.04,
+          "RegocnigitonPrecision": 95.87,
+          "CumulativePrecision": 86.32
+        },
+        "issued": {
+          "VerifiedCount": 6604,
+          "RegocnitionFrequency": 89.85,
+          "RegocnigitonPrecision": 91.51,
+          "CumulativePrecision": 82.22
+        },
+        "summary": {
+          "VerifiedCount": 6572,
+          "RegocnitionFrequency": 68.30,
+          "RegocnigitonPrecision": 83.07,
+          "CumulativePrecision": 56.74
+        },
+        "supplier": {
+          "VerifiedCount": 6587,
+          "RegocnitionFrequency": 86.12,
+          "RegocnigitonPrecision": 94.57,
+          "CumulativePrecision": 81.45
+        }
+      }
+    }
+  },
+  "03.2020": {
+    "count": 14084,
+    "allDocuments": {
+      "Count": 14084,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 5682,
+          "RegocnitionFrequency": 92.49,
+          "RegocnigitonPrecision": 97.11,
+          "CumulativePrecision": 89.81
+        },
+        "currency": {
+          "VerifiedCount": 14079,
+          "RegocnitionFrequency": 99.98,
+          "RegocnigitonPrecision": 93.75,
+          "CumulativePrecision": 93.73
+        },
+        "documentId": {
+          "VerifiedCount": 13714,
+          "RegocnitionFrequency": 86.53,
+          "RegocnigitonPrecision": 67.81,
+          "CumulativePrecision": 58.68
+        },
+        "dueDate": {
+          "VerifiedCount": 4908,
+          "RegocnitionFrequency": 71.96,
+          "RegocnigitonPrecision": 99.12,
+          "CumulativePrecision": 71.33
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 2450,
+          "RegocnitionFrequency": 89.35,
+          "RegocnigitonPrecision": 95.02,
+          "CumulativePrecision": 84.90
+        },
+        "issued": {
+          "VerifiedCount": 13931,
+          "RegocnitionFrequency": 89.12,
+          "RegocnigitonPrecision": 94.63,
+          "CumulativePrecision": 84.34
+        },
+        "summary": {
+          "VerifiedCount": 13967,
+          "RegocnitionFrequency": 68.92,
+          "RegocnigitonPrecision": 85.36,
+          "CumulativePrecision": 58.83
+        },
+        "supplier": {
+          "VerifiedCount": 13905,
+          "RegocnitionFrequency": 83.14,
+          "RegocnigitonPrecision": 96.31,
+          "CumulativePrecision": 80.07
+        }
+      }
+    },
+    "byDocTypeReceipts": {
+      "Count": 7355,
+      "Fields": {
+        "currency": {
+          "VerifiedCount": 7350,
+          "RegocnitionFrequency": 99.96,
+          "RegocnigitonPrecision": 94.83,
+          "CumulativePrecision": 94.79
+        },
+        "documentId": {
+          "VerifiedCount": 7120,
+          "RegocnitionFrequency": 81.78,
+          "RegocnigitonPrecision": 69.71,
+          "CumulativePrecision": 57.01
+        },
+        "issued": {
+          "VerifiedCount": 7248,
+          "RegocnitionFrequency": 88.49,
+          "RegocnigitonPrecision": 97.26,
+          "CumulativePrecision": 86.07
+        },
+        "summary": {
+          "VerifiedCount": 7287,
+          "RegocnitionFrequency": 68.27,
+          "RegocnigitonPrecision": 84.76,
+          "CumulativePrecision": 57.87
+        },
+        "supplier": {
+          "VerifiedCount": 7209,
+          "RegocnitionFrequency": 80.26,
+          "RegocnigitonPrecision": 98.43,
+          "CumulativePrecision": 79.00
+        }
+      }
+    },
+    "byDocTypeInvoices": {
+      "Count": 6729,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 5682,
+          "RegocnitionFrequency": 92.49,
+          "RegocnigitonPrecision": 97.11,
+          "CumulativePrecision": 89.81
+        },
+        "currency": {
+          "VerifiedCount": 6729,
+          "RegocnitionFrequency": 100.0,
+          "RegocnigitonPrecision": 92.57,
+          "CumulativePrecision": 92.57
+        },
+        "documentId": {
+          "VerifiedCount": 6594,
+          "RegocnitionFrequency": 91.66,
+          "RegocnigitonPrecision": 65.98,
+          "CumulativePrecision": 60.48
+        },
+        "dueDate": {
+          "VerifiedCount": 4821,
+          "RegocnitionFrequency": 71.94,
+          "RegocnigitonPrecision": 99.13,
+          "CumulativePrecision": 71.31
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 2395,
+          "RegocnitionFrequency": 89.56,
+          "RegocnigitonPrecision": 95.06,
+          "CumulativePrecision": 85.14
+        },
+        "issued": {
+          "VerifiedCount": 6683,
+          "RegocnitionFrequency": 89.81,
+          "RegocnigitonPrecision": 91.82,
+          "CumulativePrecision": 82.46
+        },
+        "summary": {
+          "VerifiedCount": 6680,
+          "RegocnitionFrequency": 69.63,
+          "RegocnigitonPrecision": 86.00,
+          "CumulativePrecision": 59.88
+        },
+        "supplier": {
+          "VerifiedCount": 6696,
+          "RegocnitionFrequency": 86.23,
+          "RegocnigitonPrecision": 94.20,
+          "CumulativePrecision": 81.23
+        }
+      }
+    }
+  },
+  "04.2020": {
+    "count": 10521,
+    "allDocuments": {
+      "Count": 10521,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 4571,
+          "RegocnitionFrequency": 94.14,
+          "RegocnigitonPrecision": 99.40,
+          "CumulativePrecision": 93.57
+        },
+        "currency": {
+          "VerifiedCount": 10516,
+          "RegocnitionFrequency": 99.96,
+          "RegocnigitonPrecision": 95.96,
+          "CumulativePrecision": 95.92
+        },
+        "documentId": {
+          "VerifiedCount": 10305,
+          "RegocnitionFrequency": 89.72,
+          "RegocnigitonPrecision": 68.17,
+          "CumulativePrecision": 61.16
+        },
+        "dueDate": {
+          "VerifiedCount": 4119,
+          "RegocnitionFrequency": 73.37,
+          "RegocnigitonPrecision": 99.11,
+          "CumulativePrecision": 72.71
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 2028,
+          "RegocnitionFrequency": 91.03,
+          "RegocnigitonPrecision": 96.97,
+          "CumulativePrecision": 88.26
+        },
+        "issued": {
+          "VerifiedCount": 10442,
+          "RegocnitionFrequency": 91.15,
+          "RegocnigitonPrecision": 95.67,
+          "CumulativePrecision": 87.21
+        },
+        "summary": {
+          "VerifiedCount": 10427,
+          "RegocnitionFrequency": 70.76,
+          "RegocnigitonPrecision": 86.68,
+          "CumulativePrecision": 61.33
+        },
+        "supplier": {
+          "VerifiedCount": 10449,
+          "RegocnitionFrequency": 89.02,
+          "RegocnigitonPrecision": 96.57,
+          "CumulativePrecision": 85.97
+        }
+      }
+    },
+    "byDocTypeReceipts": {
+      "Count": 5291,
+      "Fields": {
+        "currency": {
+          "VerifiedCount": 5286,
+          "RegocnitionFrequency": 99.92,
+          "RegocnigitonPrecision": 97.97,
+          "CumulativePrecision": 97.90
+        },
+        "documentId": {
+          "VerifiedCount": 5167,
+          "RegocnitionFrequency": 87.30,
+          "RegocnigitonPrecision": 68.41,
+          "CumulativePrecision": 59.73
+        },
+        "issued": {
+          "VerifiedCount": 5233,
+          "RegocnitionFrequency": 90.60,
+          "RegocnigitonPrecision": 98.31,
+          "CumulativePrecision": 89.07
+        },
+        "summary": {
+          "VerifiedCount": 5244,
+          "RegocnitionFrequency": 73.61,
+          "RegocnigitonPrecision": 86.37,
+          "CumulativePrecision": 63.58
+        },
+        "supplier": {
+          "VerifiedCount": 5254,
+          "RegocnitionFrequency": 88.47,
+          "RegocnigitonPrecision": 98.13,
+          "CumulativePrecision": 86.81
+        }
+      }
+    },
+    "byDocTypeInvoices": {
+      "Count": 5230,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 4571,
+          "RegocnitionFrequency": 94.14,
+          "RegocnigitonPrecision": 99.40,
+          "CumulativePrecision": 93.57
+        },
+        "currency": {
+          "VerifiedCount": 5230,
+          "RegocnitionFrequency": 100.0,
+          "RegocnigitonPrecision": 93.92,
+          "CumulativePrecision": 93.92
+        },
+        "documentId": {
+          "VerifiedCount": 5138,
+          "RegocnitionFrequency": 92.16,
+          "RegocnigitonPrecision": 67.94,
+          "CumulativePrecision": 62.61
+        },
+        "dueDate": {
+          "VerifiedCount": 4061,
+          "RegocnitionFrequency": 73.23,
+          "RegocnigitonPrecision": 99.13,
+          "CumulativePrecision": 72.59
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 1990,
+          "RegocnitionFrequency": 91.11,
+          "RegocnigitonPrecision": 96.97,
+          "CumulativePrecision": 88.34
+        },
+        "issued": {
+          "VerifiedCount": 5209,
+          "RegocnitionFrequency": 91.71,
+          "RegocnigitonPrecision": 93.05,
+          "CumulativePrecision": 85.33
+        },
+        "summary": {
+          "VerifiedCount": 5183,
+          "RegocnitionFrequency": 67.88,
+          "RegocnigitonPrecision": 87.01,
+          "CumulativePrecision": 59.06
+        },
+        "supplier": {
+          "VerifiedCount": 5195,
+          "RegocnitionFrequency": 89.59,
+          "RegocnigitonPrecision": 95.02,
+          "CumulativePrecision": 85.12
+        }
+      }
+    }
+  },
+  "05.2020": {
+    "count": 13078,
+    "allDocuments": {
+      "Count": 13078,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 5510,
+          "RegocnitionFrequency": 94.10,
+          "RegocnigitonPrecision": 99.19,
+          "CumulativePrecision": 93.34
+        },
+        "currency": {
+          "VerifiedCount": 13077,
+          "RegocnitionFrequency": 99.99,
+          "RegocnigitonPrecision": 96.12,
+          "CumulativePrecision": 96.11
+        },
+        "documentId": {
+          "VerifiedCount": 12852,
+          "RegocnitionFrequency": 91.46,
+          "RegocnigitonPrecision": 72.89,
+          "CumulativePrecision": 66.66
+        },
+        "dueDate": {
+          "VerifiedCount": 4954,
+          "RegocnitionFrequency": 75.56,
+          "RegocnigitonPrecision": 98.90,
+          "CumulativePrecision": 74.73
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 2279,
+          "RegocnitionFrequency": 90.00,
+          "RegocnigitonPrecision": 96.98,
+          "CumulativePrecision": 87.28
+        },
+        "issued": {
+          "VerifiedCount": 13020,
+          "RegocnitionFrequency": 91.95,
+          "RegocnigitonPrecision": 95.91,
+          "CumulativePrecision": 88.19
+        },
+        "summary": {
+          "VerifiedCount": 13011,
+          "RegocnitionFrequency": 73.48,
+          "RegocnigitonPrecision": 87.19,
+          "CumulativePrecision": 64.07
+        },
+        "supplier": {
+          "VerifiedCount": 12994,
+          "RegocnitionFrequency": 89.56,
+          "RegocnigitonPrecision": 97.07,
+          "CumulativePrecision": 86.94
+        }
+      }
+    },
+    "byDocTypeReceipts": {
+      "Count": 6748,
+      "Fields": {
+        "currency": {
+          "VerifiedCount": 6748,
+          "RegocnitionFrequency": 99.99,
+          "RegocnigitonPrecision": 98.49,
+          "CumulativePrecision": 98.47
+        },
+        "documentId": {
+          "VerifiedCount": 6618,
+          "RegocnitionFrequency": 89.33,
+          "RegocnigitonPrecision": 73.66,
+          "CumulativePrecision": 65.81
+        },
+        "issued": {
+          "VerifiedCount": 6709,
+          "RegocnitionFrequency": 91.95,
+          "RegocnigitonPrecision": 98.54,
+          "CumulativePrecision": 90.61
+        },
+        "summary": {
+          "VerifiedCount": 6738,
+          "RegocnitionFrequency": 76.05,
+          "RegocnigitonPrecision": 87.55,
+          "CumulativePrecision": 66.58
+        },
+        "supplier": {
+          "VerifiedCount": 6695,
+          "RegocnitionFrequency": 89.01,
+          "RegocnigitonPrecision": 98.41,
+          "CumulativePrecision": 87.59
+        }
+      }
+    },
+    "byDocTypeInvoices": {
+      "Count": 6330,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 5510,
+          "RegocnitionFrequency": 94.10,
+          "RegocnigitonPrecision": 99.19,
+          "CumulativePrecision": 93.34
+        },
+        "currency": {
+          "VerifiedCount": 6329,
+          "RegocnitionFrequency": 100.0,
+          "RegocnigitonPrecision": 93.59,
+          "CumulativePrecision": 93.59
+        },
+        "documentId": {
+          "VerifiedCount": 6234,
+          "RegocnitionFrequency": 93.71,
+          "RegocnigitonPrecision": 72.10,
+          "CumulativePrecision": 67.56
+        },
+        "dueDate": {
+          "VerifiedCount": 4873,
+          "RegocnitionFrequency": 75.56,
+          "RegocnigitonPrecision": 98.91,
+          "CumulativePrecision": 74.74
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 2249,
+          "RegocnitionFrequency": 90.08,
+          "RegocnigitonPrecision": 96.94,
+          "CumulativePrecision": 87.33
+        },
+        "issued": {
+          "VerifiedCount": 6311,
+          "RegocnitionFrequency": 91.95,
+          "RegocnigitonPrecision": 93.11,
+          "CumulativePrecision": 85.61
+        },
+        "summary": {
+          "VerifiedCount": 6273,
+          "RegocnitionFrequency": 70.73,
+          "RegocnigitonPrecision": 86.77,
+          "CumulativePrecision": 61.37
+        },
+        "supplier": {
+          "VerifiedCount": 6299,
+          "RegocnitionFrequency": 90.16,
+          "RegocnigitonPrecision": 95.67,
+          "CumulativePrecision": 86.25
+        }
+      }
+    }
+  },
+  "06.2020": {
+    "count": 16702,
+    "allDocuments": {
+      "Count": 16702,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 7542,
+          "RegocnitionFrequency": 95.07,
+          "RegocnigitonPrecision": 99.39,
+          "CumulativePrecision": 94.48
+        },
+        "currency": {
+          "VerifiedCount": 16700,
+          "RegocnitionFrequency": 99.97,
+          "RegocnigitonPrecision": 96.19,
+          "CumulativePrecision": 96.16
+        },
+        "documentId": {
+          "VerifiedCount": 16378,
+          "RegocnitionFrequency": 93.23,
+          "RegocnigitonPrecision": 79.09,
+          "CumulativePrecision": 73.74
+        },
+        "dueDate": {
+          "VerifiedCount": 7236,
+          "RegocnitionFrequency": 73.52,
+          "RegocnigitonPrecision": 99.25,
+          "CumulativePrecision": 72.97
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 3247,
+          "RegocnitionFrequency": 92.18,
+          "RegocnigitonPrecision": 97.29,
+          "CumulativePrecision": 89.68
+        },
+        "issued": {
+          "VerifiedCount": 16602,
+          "RegocnitionFrequency": 92.87,
+          "RegocnigitonPrecision": 96.37,
+          "CumulativePrecision": 89.50
+        },
+        "summary": {
+          "VerifiedCount": 16076,
+          "RegocnitionFrequency": 77.13,
+          "RegocnigitonPrecision": 88.21,
+          "CumulativePrecision": 68.03
+        },
+        "supplier": {
+          "VerifiedCount": 16587,
+          "RegocnitionFrequency": 90.70,
+          "RegocnigitonPrecision": 97.03,
+          "CumulativePrecision": 88.01
+        }
+      }
+    },
+    "byDocTypeReceipts": {
+      "Count": 7986,
+      "Fields": {
+        "currency": {
+          "VerifiedCount": 7984,
+          "RegocnitionFrequency": 99.94,
+          "RegocnigitonPrecision": 97.09,
+          "CumulativePrecision": 97.03
+        },
+        "documentId": {
+          "VerifiedCount": 7786,
+          "RegocnitionFrequency": 91.02,
+          "RegocnigitonPrecision": 80.94,
+          "CumulativePrecision": 73.67
+        },
+        "issued": {
+          "VerifiedCount": 7915,
+          "RegocnitionFrequency": 92.95,
+          "RegocnigitonPrecision": 98.34,
+          "CumulativePrecision": 91.41
+        },
+        "summary": {
+          "VerifiedCount": 7687,
+          "RegocnitionFrequency": 80.06,
+          "RegocnigitonPrecision": 89.44,
+          "CumulativePrecision": 71.60
+        },
+        "supplier": {
+          "VerifiedCount": 7922,
+          "RegocnitionFrequency": 89.70,
+          "RegocnigitonPrecision": 98.76,
+          "CumulativePrecision": 88.59
+        }
+      }
+    },
+    "byDocTypeInvoices": {
+      "Count": 8716,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 7542,
+          "RegocnitionFrequency": 95.07,
+          "RegocnigitonPrecision": 99.39,
+          "CumulativePrecision": 94.48
+        },
+        "currency": {
+          "VerifiedCount": 8716,
+          "RegocnitionFrequency": 100.0,
+          "RegocnigitonPrecision": 95.36,
+          "CumulativePrecision": 95.36
+        },
+        "documentId": {
+          "VerifiedCount": 8592,
+          "RegocnitionFrequency": 95.24,
+          "RegocnigitonPrecision": 77.49,
+          "CumulativePrecision": 73.80
+        },
+        "dueDate": {
+          "VerifiedCount": 7009,
+          "RegocnitionFrequency": 74.65,
+          "RegocnigitonPrecision": 99.24,
+          "CumulativePrecision": 74.08
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 3090,
+          "RegocnitionFrequency": 92.17,
+          "RegocnigitonPrecision": 97.23,
+          "CumulativePrecision": 89.61
+        },
+        "issued": {
+          "VerifiedCount": 8687,
+          "RegocnitionFrequency": 92.81,
+          "RegocnigitonPrecision": 94.57,
+          "CumulativePrecision": 87.76
+        },
+        "summary": {
+          "VerifiedCount": 8389,
+          "RegocnitionFrequency": 74.44,
+          "RegocnigitonPrecision": 87.00,
+          "CumulativePrecision": 64.76
+        },
+        "supplier": {
+          "VerifiedCount": 8665,
+          "RegocnitionFrequency": 91.62,
+          "RegocnigitonPrecision": 95.48,
+          "CumulativePrecision": 87.48
+        }
+      }
+    }
+  },
+  "07.2020": {
+    "count": 17365,
+    "allDocuments": {
+      "Count": 17365,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 7848,
+          "RegocnitionFrequency": 94.55,
+          "RegocnigitonPrecision": 99.43,
+          "CumulativePrecision": 94.01
+        },
+        "currency": {
+          "VerifiedCount": 17353,
+          "RegocnitionFrequency": 99.98,
+          "RegocnigitonPrecision": 94.92,
+          "CumulativePrecision": 94.89
+        },
+        "documentId": {
+          "VerifiedCount": 17100,
+          "RegocnitionFrequency": 92.94,
+          "RegocnigitonPrecision": 79.30,
+          "CumulativePrecision": 73.70
+        },
+        "dueDate": {
+          "VerifiedCount": 8039,
+          "RegocnitionFrequency": 68.60,
+          "RegocnigitonPrecision": 98.84,
+          "CumulativePrecision": 67.81
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 3234,
+          "RegocnitionFrequency": 91.50,
+          "RegocnigitonPrecision": 97.26,
+          "CumulativePrecision": 88.99
+        },
+        "issued": {
+          "VerifiedCount": 17264,
+          "RegocnitionFrequency": 92.67,
+          "RegocnigitonPrecision": 95.59,
+          "CumulativePrecision": 88.59
+        },
+        "summary": {
+          "VerifiedCount": 16662,
+          "RegocnitionFrequency": 75.87,
+          "RegocnigitonPrecision": 87.54,
+          "CumulativePrecision": 66.41
+        },
+        "supplier": {
+          "VerifiedCount": 17250,
+          "RegocnitionFrequency": 88.99,
+          "RegocnigitonPrecision": 97.06,
+          "CumulativePrecision": 86.38
+        }
+      }
+    },
+    "byDocTypeReceipts": {
+      "Count": 8304,
+      "Fields": {
+        "currency": {
+          "VerifiedCount": 8298,
+          "RegocnitionFrequency": 99.96,
+          "RegocnigitonPrecision": 97.07,
+          "CumulativePrecision": 97.04
+        },
+        "documentId": {
+          "VerifiedCount": 8130,
+          "RegocnitionFrequency": 90.55,
+          "RegocnigitonPrecision": 80.81,
+          "CumulativePrecision": 73.17
+        },
+        "issued": {
+          "VerifiedCount": 8229,
+          "RegocnitionFrequency": 92.65,
+          "RegocnigitonPrecision": 98.03,
+          "CumulativePrecision": 90.83
+        },
+        "summary": {
+          "VerifiedCount": 7866,
+          "RegocnitionFrequency": 79.38,
+          "RegocnigitonPrecision": 89.29,
+          "CumulativePrecision": 70.87
+        },
+        "supplier": {
+          "VerifiedCount": 8232,
+          "RegocnitionFrequency": 87.55,
+          "RegocnigitonPrecision": 98.42,
+          "CumulativePrecision": 86.16
+        }
+      }
+    },
+    "byDocTypeInvoices": {
+      "Count": 9061,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 7848,
+          "RegocnitionFrequency": 94.55,
+          "RegocnigitonPrecision": 99.43,
+          "CumulativePrecision": 94.01
+        },
+        "currency": {
+          "VerifiedCount": 9055,
+          "RegocnitionFrequency": 99.99,
+          "RegocnigitonPrecision": 92.94,
+          "CumulativePrecision": 92.93
+        },
+        "documentId": {
+          "VerifiedCount": 8970,
+          "RegocnitionFrequency": 95.11,
+          "RegocnigitonPrecision": 78.00,
+          "CumulativePrecision": 74.18
+        },
+        "dueDate": {
+          "VerifiedCount": 7801,
+          "RegocnitionFrequency": 69.79,
+          "RegocnigitonPrecision": 98.88,
+          "CumulativePrecision": 69.00
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 3095,
+          "RegocnitionFrequency": 91.47,
+          "RegocnigitonPrecision": 97.21,
+          "CumulativePrecision": 88.92
+        },
+        "issued": {
+          "VerifiedCount": 9035,
+          "RegocnitionFrequency": 92.70,
+          "RegocnigitonPrecision": 93.37,
+          "CumulativePrecision": 86.55
+        },
+        "summary": {
+          "VerifiedCount": 8796,
+          "RegocnitionFrequency": 72.73,
+          "RegocnigitonPrecision": 85.84,
+          "CumulativePrecision": 62.43
+        },
+        "supplier": {
+          "VerifiedCount": 9018,
+          "RegocnitionFrequency": 90.31,
+          "RegocnigitonPrecision": 95.86,
+          "CumulativePrecision": 86.57
+        }
+      }
+    }
+  },
+  "08.2020": {
+    "count": 17426,
+    "allDocuments": {
+      "Count": 17426,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 7377,
+          "RegocnitionFrequency": 95.38,
+          "RegocnigitonPrecision": 99.26,
+          "CumulativePrecision": 94.67
+        },
+        "currency": {
+          "VerifiedCount": 17416,
+          "RegocnitionFrequency": 99.98,
+          "RegocnigitonPrecision": 95.28,
+          "CumulativePrecision": 95.26
+        },
+        "documentId": {
+          "VerifiedCount": 17134,
+          "RegocnitionFrequency": 91.15,
+          "RegocnigitonPrecision": 80.08,
+          "CumulativePrecision": 72.99
+        },
+        "dueDate": {
+          "VerifiedCount": 7486,
+          "RegocnitionFrequency": 67.78,
+          "RegocnigitonPrecision": 99.15,
+          "CumulativePrecision": 67.21
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 3264,
+          "RegocnitionFrequency": 90.75,
+          "RegocnigitonPrecision": 96.12,
+          "CumulativePrecision": 87.22
+        },
+        "issued": {
+          "VerifiedCount": 17294,
+          "RegocnitionFrequency": 91.70,
+          "RegocnigitonPrecision": 95.66,
+          "CumulativePrecision": 87.72
+        },
+        "summary": {
+          "VerifiedCount": 16497,
+          "RegocnitionFrequency": 76.25,
+          "RegocnigitonPrecision": 89.32,
+          "CumulativePrecision": 68.10
+        },
+        "supplier": {
+          "VerifiedCount": 17334,
+          "RegocnitionFrequency": 88.06,
+          "RegocnigitonPrecision": 96.92,
+          "CumulativePrecision": 85.35
+        }
+      }
+    },
+    "byDocTypeReceipts": {
+      "Count": 8820,
+      "Fields": {
+        "currency": {
+          "VerifiedCount": 8813,
+          "RegocnitionFrequency": 99.95,
+          "RegocnigitonPrecision": 96.02,
+          "CumulativePrecision": 95.97
+        },
+        "documentId": {
+          "VerifiedCount": 8620,
+          "RegocnitionFrequency": 87.77,
+          "RegocnigitonPrecision": 80.17,
+          "CumulativePrecision": 70.37
+        },
+        "issued": {
+          "VerifiedCount": 8729,
+          "RegocnitionFrequency": 91.42,
+          "RegocnigitonPrecision": 97.88,
+          "CumulativePrecision": 89.48
+        },
+        "summary": {
+          "VerifiedCount": 8261,
+          "RegocnitionFrequency": 78.53,
+          "RegocnigitonPrecision": 91.35,
+          "CumulativePrecision": 71.73
+        },
+        "supplier": {
+          "VerifiedCount": 8757,
+          "RegocnitionFrequency": 85.53,
+          "RegocnigitonPrecision": 98.80,
+          "CumulativePrecision": 84.50
+        }
+      }
+    },
+    "byDocTypeInvoices": {
+      "Count": 8606,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 7377,
+          "RegocnitionFrequency": 95.38,
+          "RegocnigitonPrecision": 99.26,
+          "CumulativePrecision": 94.67
+        },
+        "currency": {
+          "VerifiedCount": 8603,
+          "RegocnitionFrequency": 100.0,
+          "RegocnigitonPrecision": 94.53,
+          "CumulativePrecision": 94.53
+        },
+        "documentId": {
+          "VerifiedCount": 8514,
+          "RegocnitionFrequency": 94.56,
+          "RegocnigitonPrecision": 79.99,
+          "CumulativePrecision": 75.64
+        },
+        "dueDate": {
+          "VerifiedCount": 7243,
+          "RegocnitionFrequency": 69.12,
+          "RegocnigitonPrecision": 99.16,
+          "CumulativePrecision": 68.54
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 3105,
+          "RegocnitionFrequency": 90.43,
+          "RegocnigitonPrecision": 95.90,
+          "CumulativePrecision": 86.73
+        },
+        "issued": {
+          "VerifiedCount": 8565,
+          "RegocnitionFrequency": 91.99,
+          "RegocnigitonPrecision": 93.41,
+          "CumulativePrecision": 85.93
+        },
+        "summary": {
+          "VerifiedCount": 8236,
+          "RegocnitionFrequency": 73.97,
+          "RegocnigitonPrecision": 87.15,
+          "CumulativePrecision": 64.46
+        },
+        "supplier": {
+          "VerifiedCount": 8577,
+          "RegocnitionFrequency": 90.64,
+          "RegocnigitonPrecision": 95.11,
+          "CumulativePrecision": 86.21
+        }
+      }
+    }
+  },
+  "09.2020": {
+    "count": 18503,
+    "allDocuments": {
+      "Count": 18503,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 8267,
+          "RegocnitionFrequency": 94.56,
+          "RegocnigitonPrecision": 99.27,
+          "CumulativePrecision": 93.87
+        },
+        "currency": {
+          "VerifiedCount": 18491,
+          "RegocnitionFrequency": 99.97,
+          "RegocnigitonPrecision": 95.75,
+          "CumulativePrecision": 95.72
+        },
+        "documentId": {
+          "VerifiedCount": 18161,
+          "RegocnitionFrequency": 91.77,
+          "RegocnigitonPrecision": 80.85,
+          "CumulativePrecision": 74.20
+        },
+        "dueDate": {
+          "VerifiedCount": 13125,
+          "RegocnitionFrequency": 44.15,
+          "RegocnigitonPrecision": 98.90,
+          "CumulativePrecision": 43.66
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 3484,
+          "RegocnitionFrequency": 90.59,
+          "RegocnigitonPrecision": 97.08,
+          "CumulativePrecision": 87.94
+        },
+        "issued": {
+          "VerifiedCount": 18395,
+          "RegocnitionFrequency": 91.74,
+          "RegocnigitonPrecision": 95.74,
+          "CumulativePrecision": 87.83
+        },
+        "summary": {
+          "VerifiedCount": 18146,
+          "RegocnitionFrequency": 74.91,
+          "RegocnigitonPrecision": 88.09,
+          "CumulativePrecision": 65.99
+        },
+        "supplier": {
+          "VerifiedCount": 18362,
+          "RegocnitionFrequency": 88.85,
+          "RegocnigitonPrecision": 96.74,
+          "CumulativePrecision": 85.95
+        }
+      }
+    },
+    "byDocTypeReceipts": {
+      "Count": 8860,
+      "Fields": {
+        "currency": {
+          "VerifiedCount": 8852,
+          "RegocnitionFrequency": 99.93,
+          "RegocnigitonPrecision": 96.61,
+          "CumulativePrecision": 96.54
+        },
+        "documentId": {
+          "VerifiedCount": 8660,
+          "RegocnitionFrequency": 89.12,
+          "RegocnigitonPrecision": 81.04,
+          "CumulativePrecision": 72.23
+        },
+        "issued": {
+          "VerifiedCount": 8783,
+          "RegocnitionFrequency": 91.34,
+          "RegocnigitonPrecision": 98.06,
+          "CumulativePrecision": 89.56
+        },
+        "summary": {
+          "VerifiedCount": 8655,
+          "RegocnitionFrequency": 76.80,
+          "RegocnigitonPrecision": 89.44,
+          "CumulativePrecision": 68.69
+        },
+        "supplier": {
+          "VerifiedCount": 8752,
+          "RegocnitionFrequency": 86.67,
+          "RegocnigitonPrecision": 98.60,
+          "CumulativePrecision": 85.45
+        }
+      }
+    },
+    "byDocTypeInvoices": {
+      "Count": 9643,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 8267,
+          "RegocnitionFrequency": 94.56,
+          "RegocnigitonPrecision": 99.27,
+          "CumulativePrecision": 93.87
+        },
+        "currency": {
+          "VerifiedCount": 9639,
+          "RegocnitionFrequency": 100.0,
+          "RegocnigitonPrecision": 94.96,
+          "CumulativePrecision": 94.96
+        },
+        "documentId": {
+          "VerifiedCount": 9501,
+          "RegocnitionFrequency": 94.19,
+          "RegocnigitonPrecision": 80.68,
+          "CumulativePrecision": 75.99
+        },
+        "dueDate": {
+          "VerifiedCount": 8842,
+          "RegocnitionFrequency": 64.47,
+          "RegocnigitonPrecision": 98.98,
+          "CumulativePrecision": 63.81
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 3360,
+          "RegocnitionFrequency": 90.45,
+          "RegocnigitonPrecision": 97.20,
+          "CumulativePrecision": 87.92
+        },
+        "issued": {
+          "VerifiedCount": 9612,
+          "RegocnitionFrequency": 92.11,
+          "RegocnigitonPrecision": 93.64,
+          "CumulativePrecision": 86.26
+        },
+        "summary": {
+          "VerifiedCount": 9491,
+          "RegocnitionFrequency": 73.20,
+          "RegocnigitonPrecision": 86.80,
+          "CumulativePrecision": 63.53
+        },
+        "supplier": {
+          "VerifiedCount": 9610,
+          "RegocnitionFrequency": 90.84,
+          "RegocnigitonPrecision": 95.12,
+          "CumulativePrecision": 86.41
+        }
+      }
+    }
+  },
+  "10.2020": {
+    "count": 20173,
+    "allDocuments": {
+      "Count": 20173,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 8998,
+          "RegocnitionFrequency": 95.17,
+          "RegocnigitonPrecision": 99.19,
+          "CumulativePrecision": 94.40
+        },
+        "currency": {
+          "VerifiedCount": 20169,
+          "RegocnitionFrequency": 99.97,
+          "RegocnigitonPrecision": 96.20,
+          "CumulativePrecision": 96.17
+        },
+        "documentId": {
+          "VerifiedCount": 19809,
+          "RegocnitionFrequency": 92.51,
+          "RegocnigitonPrecision": 80.49,
+          "CumulativePrecision": 74.46
+        },
+        "dueDate": {
+          "VerifiedCount": 19222,
+          "RegocnitionFrequency": 60.59,
+          "RegocnigitonPrecision": 96.37,
+          "CumulativePrecision": 58.39
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 3533,
+          "RegocnitionFrequency": 93.38,
+          "RegocnigitonPrecision": 97.21,
+          "CumulativePrecision": 90.77
+        },
+        "issued": {
+          "VerifiedCount": 20039,
+          "RegocnitionFrequency": 93.53,
+          "RegocnigitonPrecision": 95.40,
+          "CumulativePrecision": 89.23
+        },
+        "summary": {
+          "VerifiedCount": 20079,
+          "RegocnitionFrequency": 73.43,
+          "RegocnigitonPrecision": 88.23,
+          "CumulativePrecision": 64.79
+        },
+        "supplier": {
+          "VerifiedCount": 19997,
+          "RegocnitionFrequency": 89.16,
+          "RegocnigitonPrecision": 96.66,
+          "CumulativePrecision": 86.18
+        }
+      }
+    },
+    "byDocTypeReceipts": {
+      "Count": 9683,
+      "Fields": {
+        "currency": {
+          "VerifiedCount": 9681,
+          "RegocnitionFrequency": 99.95,
+          "RegocnigitonPrecision": 97.31,
+          "CumulativePrecision": 97.26
+        },
+        "documentId": {
+          "VerifiedCount": 9470,
+          "RegocnitionFrequency": 89.54,
+          "RegocnigitonPrecision": 81.37,
+          "CumulativePrecision": 72.85
+        },
+        "issued": {
+          "VerifiedCount": 9585,
+          "RegocnitionFrequency": 92.90,
+          "RegocnigitonPrecision": 98.14,
+          "CumulativePrecision": 91.16
+        },
+        "summary": {
+          "VerifiedCount": 9653,
+          "RegocnitionFrequency": 74.01,
+          "RegocnigitonPrecision": 89.57,
+          "CumulativePrecision": 66.29
+        },
+        "supplier": {
+          "VerifiedCount": 9556,
+          "RegocnitionFrequency": 87.07,
+          "RegocnigitonPrecision": 98.53,
+          "CumulativePrecision": 85.79
+        }
+      }
+    },
+    "byDocTypeInvoices": {
+      "Count": 10490,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 8998,
+          "RegocnitionFrequency": 95.17,
+          "RegocnigitonPrecision": 99.19,
+          "CumulativePrecision": 94.40
+        },
+        "currency": {
+          "VerifiedCount": 10488,
+          "RegocnitionFrequency": 99.99,
+          "RegocnigitonPrecision": 95.17,
+          "CumulativePrecision": 95.17
+        },
+        "documentId": {
+          "VerifiedCount": 10339,
+          "RegocnitionFrequency": 95.23,
+          "RegocnigitonPrecision": 79.73,
+          "CumulativePrecision": 75.93
+        },
+        "dueDate": {
+          "VerifiedCount": 10301,
+          "RegocnitionFrequency": 73.11,
+          "RegocnigitonPrecision": 95.22,
+          "CumulativePrecision": 69.61
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 3422,
+          "RegocnitionFrequency": 93.48,
+          "RegocnigitonPrecision": 97.19,
+          "CumulativePrecision": 90.85
+        },
+        "issued": {
+          "VerifiedCount": 10454,
+          "RegocnitionFrequency": 94.12,
+          "RegocnigitonPrecision": 92.92,
+          "CumulativePrecision": 87.45
+        },
+        "summary": {
+          "VerifiedCount": 10426,
+          "RegocnitionFrequency": 72.90,
+          "RegocnigitonPrecision": 86.96,
+          "CumulativePrecision": 63.40
+        },
+        "supplier": {
+          "VerifiedCount": 10441,
+          "RegocnitionFrequency": 91.07,
+          "RegocnigitonPrecision": 95.03,
+          "CumulativePrecision": 86.54
+        }
+      }
+    }
+  },
+  "11.2020": {
+    "count": 19208,
+    "allDocuments": {
+      "Count": 19208,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 8909,
+          "RegocnitionFrequency": 95.30,
+          "RegocnigitonPrecision": 99.07,
+          "CumulativePrecision": 94.41
+        },
+        "currency": {
+          "VerifiedCount": 19197,
+          "RegocnitionFrequency": 99.98,
+          "RegocnigitonPrecision": 95.86,
+          "CumulativePrecision": 95.85
+        },
+        "documentId": {
+          "VerifiedCount": 18920,
+          "RegocnitionFrequency": 92.54,
+          "RegocnigitonPrecision": 80.55,
+          "CumulativePrecision": 74.54
+        },
+        "dueDate": {
+          "VerifiedCount": 16389,
+          "RegocnitionFrequency": 95.67,
+          "RegocnigitonPrecision": 94.97,
+          "CumulativePrecision": 90.86
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 3581,
+          "RegocnitionFrequency": 92.63,
+          "RegocnigitonPrecision": 97.98,
+          "CumulativePrecision": 90.76
+        },
+        "issued": {
+          "VerifiedCount": 19086,
+          "RegocnitionFrequency": 94.26,
+          "RegocnigitonPrecision": 94.31,
+          "CumulativePrecision": 88.90
+        },
+        "summary": {
+          "VerifiedCount": 19133,
+          "RegocnitionFrequency": 72.80,
+          "RegocnigitonPrecision": 88.62,
+          "CumulativePrecision": 64.51
+        },
+        "supplier": {
+          "VerifiedCount": 19052,
+          "RegocnitionFrequency": 90.33,
+          "RegocnigitonPrecision": 96.24,
+          "CumulativePrecision": 86.94
+        }
+      }
+    },
+    "byDocTypeReceipts": {
+      "Count": 8844,
+      "Fields": {
+        "currency": {
+          "VerifiedCount": 8835,
+          "RegocnitionFrequency": 99.97,
+          "RegocnigitonPrecision": 96.91,
+          "CumulativePrecision": 96.88
+        },
+        "documentId": {
+          "VerifiedCount": 8658,
+          "RegocnitionFrequency": 89.47,
+          "RegocnigitonPrecision": 80.25,
+          "CumulativePrecision": 71.79
+        },
+        "issued": {
+          "VerifiedCount": 8755,
+          "RegocnitionFrequency": 93.20,
+          "RegocnigitonPrecision": 97.99,
+          "CumulativePrecision": 91.33
+        },
+        "summary": {
+          "VerifiedCount": 8812,
+          "RegocnitionFrequency": 74.26,
+          "RegocnigitonPrecision": 89.75,
+          "CumulativePrecision": 66.65
+        },
+        "supplier": {
+          "VerifiedCount": 8724,
+          "RegocnitionFrequency": 87.55,
+          "RegocnigitonPrecision": 98.44,
+          "CumulativePrecision": 86.19
+        }
+      }
+    },
+    "byDocTypeInvoices": {
+      "Count": 10364,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 8909,
+          "RegocnitionFrequency": 95.30,
+          "RegocnigitonPrecision": 99.07,
+          "CumulativePrecision": 94.41
+        },
+        "currency": {
+          "VerifiedCount": 10362,
+          "RegocnitionFrequency": 100.0,
+          "RegocnigitonPrecision": 94.97,
+          "CumulativePrecision": 94.97
+        },
+        "documentId": {
+          "VerifiedCount": 10262,
+          "RegocnitionFrequency": 95.14,
+          "RegocnigitonPrecision": 80.78,
+          "CumulativePrecision": 76.86
+        },
+        "dueDate": {
+          "VerifiedCount": 9430,
+          "RegocnitionFrequency": 95.24,
+          "RegocnigitonPrecision": 91.68,
+          "CumulativePrecision": 87.32
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 3433,
+          "RegocnitionFrequency": 92.34,
+          "RegocnigitonPrecision": 97.89,
+          "CumulativePrecision": 90.39
+        },
+        "issued": {
+          "VerifiedCount": 10331,
+          "RegocnitionFrequency": 95.16,
+          "RegocnigitonPrecision": 91.25,
+          "CumulativePrecision": 86.84
+        },
+        "summary": {
+          "VerifiedCount": 10321,
+          "RegocnitionFrequency": 71.54,
+          "RegocnigitonPrecision": 87.62,
+          "CumulativePrecision": 62.69
+        },
+        "supplier": {
+          "VerifiedCount": 10328,
+          "RegocnitionFrequency": 92.68,
+          "RegocnigitonPrecision": 94.48,
+          "CumulativePrecision": 87.57
+        }
+      }
+    }
+  },
+  "12.2020": {
+    "count": 19279,
+    "allDocuments": {
+      "Count": 19279,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 8878,
+          "RegocnitionFrequency": 94.81,
+          "RegocnigitonPrecision": 99.24,
+          "CumulativePrecision": 94.09
+        },
+        "currency": {
+          "VerifiedCount": 19273,
+          "RegocnitionFrequency": 99.97,
+          "RegocnigitonPrecision": 96.95,
+          "CumulativePrecision": 96.92
+        },
+        "documentId": {
+          "VerifiedCount": 18984,
+          "RegocnitionFrequency": 92.80,
+          "RegocnigitonPrecision": 80.23,
+          "CumulativePrecision": 74.46
+        },
+        "dueDate": {
+          "VerifiedCount": 16070,
+          "RegocnitionFrequency": 98.33,
+          "RegocnigitonPrecision": 95.63,
+          "CumulativePrecision": 94.03
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 3818,
+          "RegocnitionFrequency": 92.51,
+          "RegocnigitonPrecision": 97.20,
+          "CumulativePrecision": 89.92
+        },
+        "issued": {
+          "VerifiedCount": 19120,
+          "RegocnitionFrequency": 94.90,
+          "RegocnigitonPrecision": 94.85,
+          "CumulativePrecision": 90.01
+        },
+        "summary": {
+          "VerifiedCount": 19169,
+          "RegocnitionFrequency": 72.19,
+          "RegocnigitonPrecision": 87.64,
+          "CumulativePrecision": 63.27
+        },
+        "supplier": {
+          "VerifiedCount": 19120,
+          "RegocnitionFrequency": 90.42,
+          "RegocnigitonPrecision": 95.30,
+          "CumulativePrecision": 86.18
+        }
+      }
+    },
+    "byDocTypeReceipts": {
+      "Count": 9085,
+      "Fields": {
+        "currency": {
+          "VerifiedCount": 9083,
+          "RegocnitionFrequency": 99.96,
+          "RegocnigitonPrecision": 97.80,
+          "CumulativePrecision": 97.75
+        },
+        "documentId": {
+          "VerifiedCount": 8908,
+          "RegocnitionFrequency": 89.19,
+          "RegocnigitonPrecision": 80.20,
+          "CumulativePrecision": 71.53
+        },
+        "issued": {
+          "VerifiedCount": 8951,
+          "RegocnitionFrequency": 94.24,
+          "RegocnigitonPrecision": 98.09,
+          "CumulativePrecision": 92.44
+        },
+        "summary": {
+          "VerifiedCount": 9026,
+          "RegocnitionFrequency": 72.52,
+          "RegocnigitonPrecision": 89.05,
+          "CumulativePrecision": 64.58
+        },
+        "supplier": {
+          "VerifiedCount": 8966,
+          "RegocnitionFrequency": 88.16,
+          "RegocnigitonPrecision": 97.81,
+          "CumulativePrecision": 86.23
+        }
+      }
+    },
+    "byDocTypeInvoices": {
+      "Count": 10194,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 8878,
+          "RegocnitionFrequency": 94.81,
+          "RegocnigitonPrecision": 99.24,
+          "CumulativePrecision": 94.09
+        },
+        "currency": {
+          "VerifiedCount": 10190,
+          "RegocnitionFrequency": 99.98,
+          "RegocnigitonPrecision": 96.19,
+          "CumulativePrecision": 96.17
+        },
+        "documentId": {
+          "VerifiedCount": 10076,
+          "RegocnitionFrequency": 96.00,
+          "RegocnigitonPrecision": 80.25,
+          "CumulativePrecision": 77.04
+        },
+        "dueDate": {
+          "VerifiedCount": 9136,
+          "RegocnitionFrequency": 97.07,
+          "RegocnigitonPrecision": 92.41,
+          "CumulativePrecision": 89.70
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 3654,
+          "RegocnitionFrequency": 92.39,
+          "RegocnigitonPrecision": 97.13,
+          "CumulativePrecision": 89.74
+        },
+        "issued": {
+          "VerifiedCount": 10169,
+          "RegocnitionFrequency": 95.48,
+          "RegocnigitonPrecision": 92.03,
+          "CumulativePrecision": 87.87
+        },
+        "summary": {
+          "VerifiedCount": 10143,
+          "RegocnitionFrequency": 71.90,
+          "RegocnigitonPrecision": 86.38,
+          "CumulativePrecision": 62.11
+        },
+        "supplier": {
+          "VerifiedCount": 10154,
+          "RegocnitionFrequency": 92.43,
+          "RegocnigitonPrecision": 93.19,
+          "CumulativePrecision": 86.13
+        }
+      }
+    }
+  },
+  "01.2021": {
+    "count": 18951,
+    "allDocuments": {
+      "Count": 18951,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 9156,
+          "RegocnitionFrequency": 94.62,
+          "RegocnigitonPrecision": 99.34,
+          "CumulativePrecision": 93.99
+        },
+        "currency": {
+          "VerifiedCount": 18947,
+          "RegocnitionFrequency": 99.98,
+          "RegocnigitonPrecision": 97.97,
+          "CumulativePrecision": 97.95
+        },
+        "documentId": {
+          "VerifiedCount": 18674,
+          "RegocnitionFrequency": 93.13,
+          "RegocnigitonPrecision": 78.01,
+          "CumulativePrecision": 72.65
+        },
+        "dueDate": {
+          "VerifiedCount": 15546,
+          "RegocnitionFrequency": 97.74,
+          "RegocnigitonPrecision": 94.46,
+          "CumulativePrecision": 92.33
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 4061,
+          "RegocnitionFrequency": 92.14,
+          "RegocnigitonPrecision": 97.57,
+          "CumulativePrecision": 89.90
+        },
+        "issued": {
+          "VerifiedCount": 18837,
+          "RegocnitionFrequency": 93.84,
+          "RegocnigitonPrecision": 93.62,
+          "CumulativePrecision": 87.85
+        },
+        "summary": {
+          "VerifiedCount": 18858,
+          "RegocnitionFrequency": 80.19,
+          "RegocnigitonPrecision": 87.58,
+          "CumulativePrecision": 70.23
+        },
+        "supplier": {
+          "VerifiedCount": 18816,
+          "RegocnitionFrequency": 90.55,
+          "RegocnigitonPrecision": 95.19,
+          "CumulativePrecision": 86.19
+        }
+      }
+    },
+    "byDocTypeReceipts": {
+      "Count": 8314,
+      "Fields": {
+        "currency": {
+          "VerifiedCount": 8313,
+          "RegocnitionFrequency": 99.96,
+          "RegocnigitonPrecision": 98.66,
+          "CumulativePrecision": 98.63
+        },
+        "documentId": {
+          "VerifiedCount": 8149,
+          "RegocnitionFrequency": 90.16,
+          "RegocnigitonPrecision": 78.78,
+          "CumulativePrecision": 71.03
+        },
+        "issued": {
+          "VerifiedCount": 8242,
+          "RegocnitionFrequency": 92.47,
+          "RegocnigitonPrecision": 98.14,
+          "CumulativePrecision": 90.74
+        },
+        "summary": {
+          "VerifiedCount": 8274,
+          "RegocnitionFrequency": 82.92,
+          "RegocnigitonPrecision": 88.49,
+          "CumulativePrecision": 73.37
+        },
+        "supplier": {
+          "VerifiedCount": 8234,
+          "RegocnitionFrequency": 88.17,
+          "RegocnigitonPrecision": 98.15,
+          "CumulativePrecision": 86.54
+        }
+      }
+    },
+    "byDocTypeInvoices": {
+      "Count": 10637,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 9156,
+          "RegocnitionFrequency": 94.62,
+          "RegocnigitonPrecision": 99.34,
+          "CumulativePrecision": 93.99
+        },
+        "currency": {
+          "VerifiedCount": 10634,
+          "RegocnitionFrequency": 99.99,
+          "RegocnigitonPrecision": 97.42,
+          "CumulativePrecision": 97.41
+        },
+        "documentId": {
+          "VerifiedCount": 10525,
+          "RegocnitionFrequency": 95.43,
+          "RegocnigitonPrecision": 77.45,
+          "CumulativePrecision": 73.91
+        },
+        "dueDate": {
+          "VerifiedCount": 9416,
+          "RegocnitionFrequency": 96.29,
+          "RegocnigitonPrecision": 90.98,
+          "CumulativePrecision": 87.61
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 3907,
+          "RegocnitionFrequency": 92.04,
+          "RegocnigitonPrecision": 97.58,
+          "CumulativePrecision": 89.81
+        },
+        "issued": {
+          "VerifiedCount": 10595,
+          "RegocnitionFrequency": 94.90,
+          "RegocnigitonPrecision": 90.20,
+          "CumulativePrecision": 85.61
+        },
+        "summary": {
+          "VerifiedCount": 10584,
+          "RegocnitionFrequency": 78.06,
+          "RegocnigitonPrecision": 86.82,
+          "CumulativePrecision": 67.77
+        },
+        "supplier": {
+          "VerifiedCount": 10582,
+          "RegocnitionFrequency": 92.40,
+          "RegocnigitonPrecision": 92.98,
+          "CumulativePrecision": 85.92
+        }
+      }
+    }
+  },
+  "02.2021": {
+    "count": 18201,
+    "allDocuments": {
+      "Count": 18201,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 8426,
+          "RegocnitionFrequency": 94.90,
+          "RegocnigitonPrecision": 99.31,
+          "CumulativePrecision": 94.24
+        },
+        "currency": {
+          "VerifiedCount": 18192,
+          "RegocnitionFrequency": 99.94,
+          "RegocnigitonPrecision": 99.04,
+          "CumulativePrecision": 98.98
+        },
+        "documentId": {
+          "VerifiedCount": 17863,
+          "RegocnitionFrequency": 93.81,
+          "RegocnigitonPrecision": 80.36,
+          "CumulativePrecision": 75.39
+        },
+        "dueDate": {
+          "VerifiedCount": 14708,
+          "RegocnitionFrequency": 96.91,
+          "RegocnigitonPrecision": 95.36,
+          "CumulativePrecision": 92.42
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 3615,
+          "RegocnitionFrequency": 93.22,
+          "RegocnigitonPrecision": 96.85,
+          "CumulativePrecision": 90.29
+        },
+        "issued": {
+          "VerifiedCount": 18047,
+          "RegocnitionFrequency": 93.14,
+          "RegocnigitonPrecision": 94.33,
+          "CumulativePrecision": 87.86
+        },
+        "summary": {
+          "VerifiedCount": 18121,
+          "RegocnitionFrequency": 93.31,
+          "RegocnigitonPrecision": 88.91,
+          "CumulativePrecision": 82.96
+        },
+        "supplier": {
+          "VerifiedCount": 18037,
+          "RegocnitionFrequency": 89.85,
+          "RegocnigitonPrecision": 95.58,
+          "CumulativePrecision": 85.87
+        }
+      }
+    },
+    "byDocTypeReceipts": {
+      "Count": 8326,
+      "Fields": {
+        "currency": {
+          "VerifiedCount": 8322,
+          "RegocnitionFrequency": 99.88,
+          "RegocnigitonPrecision": 99.01,
+          "CumulativePrecision": 98.89
+        },
+        "documentId": {
+          "VerifiedCount": 8110,
+          "RegocnitionFrequency": 90.55,
+          "RegocnigitonPrecision": 81.97,
+          "CumulativePrecision": 74.23
+        },
+        "issued": {
+          "VerifiedCount": 8206,
+          "RegocnitionFrequency": 92.66,
+          "RegocnigitonPrecision": 98.20,
+          "CumulativePrecision": 90.99
+        },
+        "summary": {
+          "VerifiedCount": 8305,
+          "RegocnitionFrequency": 94.22,
+          "RegocnigitonPrecision": 90.10,
+          "CumulativePrecision": 84.89
+        },
+        "supplier": {
+          "VerifiedCount": 8213,
+          "RegocnitionFrequency": 87.30,
+          "RegocnigitonPrecision": 98.37,
+          "CumulativePrecision": 85.88
+        }
+      }
+    },
+    "byDocTypeInvoices": {
+      "Count": 9875,
+      "Fields": {
+        "bankAccounts": {
+          "VerifiedCount": 8426,
+          "RegocnitionFrequency": 94.90,
+          "RegocnigitonPrecision": 99.31,
+          "CumulativePrecision": 94.24
+        },
+        "currency": {
+          "VerifiedCount": 9870,
+          "RegocnitionFrequency": 99.99,
+          "RegocnigitonPrecision": 99.06,
+          "CumulativePrecision": 99.05
+        },
+        "documentId": {
+          "VerifiedCount": 9753,
+          "RegocnitionFrequency": 96.52,
+          "RegocnigitonPrecision": 79.11,
+          "CumulativePrecision": 76.36
+        },
+        "dueDate": {
+          "VerifiedCount": 8617,
+          "RegocnitionFrequency": 95.03,
+          "RegocnigitonPrecision": 92.15,
+          "CumulativePrecision": 87.57
+        },
+        "invoiceReferenceNo": {
+          "VerifiedCount": 3454,
+          "RegocnitionFrequency": 93.17,
+          "RegocnigitonPrecision": 96.80,
+          "CumulativePrecision": 90.19
+        },
+        "issued": {
+          "VerifiedCount": 9841,
+          "RegocnitionFrequency": 93.54,
+          "RegocnigitonPrecision": 91.14,
+          "CumulativePrecision": 85.25
+        },
+        "summary": {
+          "VerifiedCount": 9816,
+          "RegocnitionFrequency": 92.54,
+          "RegocnigitonPrecision": 87.89,
+          "CumulativePrecision": 81.34
+        },
+        "supplier": {
+          "VerifiedCount": 9824,
+          "RegocnitionFrequency": 91.98,
+          "RegocnigitonPrecision": 93.36,
+          "CumulativePrecision": 85.87
+        }
+      }
+    }
+  }
+}
