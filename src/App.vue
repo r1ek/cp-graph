@@ -66,8 +66,8 @@ import {
 
 const DOC_TYPES = {
   allDocuments: 'allDocuments',
-  byDocTypeInvoices: 'byDocTypeInvoices',
-  byDocTypeReceipts: 'byDocTypeReceipts',
+  byDocType_Invoices: 'byDocType_Invoices',
+  byDocType_Receipts: 'byDocType_Receipts',
   byFindingType_onlyRules: 'byFindingType_onlyRules',
   byFindingType_noRules: 'byFindingType_noRules',
   byCountryEE: 'byCountryEE',
